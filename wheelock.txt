@@ -429,7 +429,7 @@
 {"latin":"Latinus, Latina, Latinum","english":"Latin","chapter":22,"part_of_speech":null,"category":null}
 {"latin":"protinus","english":"immediately","chapter":22,"part_of_speech":null,"category":null}
 {"latin":"quondam","english":"formerly, once","chapter":22,"part_of_speech":null,"category":null}
-{"latin":"res publica, rei publicae (f) state, commonwealth, republic","english":"","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"res publica, rei publicae (f)","english":"state, commonwealth, republic","chapter":22,"part_of_speech":null,"category":null}
 {"latin":"ultra (+acc.)","english":"beyond, on the other side of","chapter":22,"part_of_speech":null,"category":null}
 {"latin":"aliquis, aliquid","english":"someone, somebody, something","chapter":23,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"peto, petere, petivi, petitum","english":"to seek, aim at, beseech","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Motion"}
