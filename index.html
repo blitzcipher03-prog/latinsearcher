@@ -81,6 +81,31 @@ function update(){
   var q=input.value.trim(), chap=getChap();
   var pool=ENTRIES.filter(passes);
   if(!q){ render(pool); return; }
+  var lower=q.toLowerCase();
+  // "to X" => search only verbs' english by the stem after 'to'
+  if(/^to\s+\S+/.test(lower)){
+    var vpool=posSel.value?pool:pool.filter(function(e){return e.pos==='v.';});
+    var stem=lower.replace(/^to\s+/,'').trim();
+    var vtoks=stem.split(/\s+/).filter(Boolean);
+    function vKey(s){ return s.toLowerCase().replace(/^to\s+/,''); }
+    function vAliases(k){ return k.split(/[;,]/).map(function(a){return a.trim();}); }
+    function vScore(en){
+      var k=vKey(en), s=0;
+      if(stem&&k.indexOf(stem)!==-1) s+=100;
+      vAliases(k).forEach(function(a){ if(stem&&a===stem) s+=60; });
+      vtoks.forEach(function(t){ if(t&&k.indexOf(t)!==-1) s+=20; });
+      s-=Math.min(en.length,200)/200;
+      return s;
+    }
+    function vExact(e){ var k=vKey(e.english); return stem&&(k.indexOf(stem)!==-1||vAliases(k).indexOf(stem)!==-1); }
+    var scored=vpool.map(function(e){return {e:e,s:vScore(e.english)};})
+      .filter(function(x){return x.s>0;})
+      .sort(function(a,b){return b.s-a.s;});
+    var exact=scored.filter(function(x){return vExact(x.e);}).map(function(x){return x.e;});
+    var similar=scored.filter(function(x){return !vExact(x.e);}).map(function(x){return x.e;});
+    renderSplit(exact,similar);
+    return;
+  }
   var lat=pool.filter(function(e){ return tokensIn(e.latin,q); });
   if(lat.length){
     var exact=lat.filter(function(e){ return exactLatin(e,q); });
