@@ -1,0 +1,767 @@
+{"latin":"do, dare, dedi, datum","english":"to give, offer","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Social Life"}
+{"latin":"video, vidēre, vidi, visum","english":"to see; observe, understand","chapter":1,"part_of_speech":"Verb: 2nd Conjugation","category":"Vision"}
+{"latin":"debeo, debēre, debui, debitum","english":"to owe; ought, must, should","chapter":1,"part_of_speech":"Verb: 2nd Conjugation","category":"Business/Money"}
+{"latin":"voco, vocāre, vocavi, vocatum","english":"to call, summon","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Speech/Oratory"}
+{"latin":"amo, amāre, amavi, amatum","english":"to love","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Love"}
+{"latin":"servo, servāre, servavi, servatum","english":"to save, preserve, keep, guard, protect","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"The Household"}
+{"latin":"erro, errāre, erravi, erratum","english":"to err, go astray, make a mistake, be mistaken; wander","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Travel"}
+{"latin":"laudo, laudāre, laudavi, laudatum","english":"to praise","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Social Life"}
+{"latin":"cogito, cogitāre, cogitavi, cogitatum","english":"to think, ponder, consider, plan","chapter":1,"part_of_speech":"Verb: 1st Conjugation","category":"Education/Knowledge"}
+{"latin":"valeo, valēre, valui, valiturum","english":"to be strong, have power; be well","chapter":1,"part_of_speech":"Verb: 2nd Conjugation","category":"Social Life"}
+{"latin":"terreo, terrēre, terrui, territum","english":"to frighten, terrify","chapter":1,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
+{"latin":"moneo, monēre, monui, monitum","english":"to warn, remind, advise","chapter":1,"part_of_speech":"Verb: 2nd Conjugation","category":"Speech/Oratory"}
+{"latin":"me","english":"me, myself (accusative case)","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"nihil","english":"nothing","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"non","english":"not","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"quid","english":"what","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"saepe","english":"often","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"salveo, salvēre","english":"to be well, be in good health","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"si","english":"if","chapter":1,"part_of_speech":null,"category":null}
+{"latin":"magnus, magna, magnum","english":"great, large; important","chapter":2,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"meus, mea, meum","english":"my","chapter":2,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"multus, multa, multum","english":"many","chapter":2,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"tuus, tua, tuum","english":"your (singular)","chapter":2,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"vita, vitae (f)","english":"life; mode of life","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Life and Being"}
+{"latin":"fortuna, fortunae (f)","english":"fortune, luck","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Religion"}
+{"latin":"ira, irae (f)","english":"ire, anger","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Emotions"}
+{"latin":"poena, poenae (f)","english":"penalty, punishment","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Justice"}
+{"latin":"puella, puellae (f)","english":"girl","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"People"}
+{"latin":"fama, famae (f)","english":"rumor, report; fame","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Speech/Oratory"}
+{"latin":"patria, patriae (f)","english":"fatherland, native land, homeland","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Geography"}
+{"latin":"forma, formae (f)","english":"form, shape; beauty","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Other Senses"}
+{"latin":"pecunia, pecuniae (f)","english":"money","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Business/Money"}
+{"latin":"sententia, sententiae (f)","english":"feeling, though, opinion, vote, sentence","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Education/Knowledge"}
+{"latin":"antiquus, antiqua, antiquum","english":"ancient, old","chapter":2,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Lengths of Time"}
+{"latin":"porta, portae (f)","english":"gate, entrance","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"The City"}
+{"latin":"poeta, poetae (m)","english":"poet","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Writing/Poetry"}
+{"latin":"est","english":"is","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"et","english":"and (et . . . et","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"nauta, nautae (m)","english":"sailor","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"philosophia, philosophiae (f)","english":"philosophy","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"rosa, rosae (f)","english":"rose","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"sed","english":"but","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"sine (+abl.)","english":"without","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"habeo, habēre, habui, habitum","english":"to have, hold, possess; consider, regard","chapter":3,"part_of_speech":"Verb: 2nd Conjugation","category":"Other Senses"}
+{"latin":"vir, viri (m)","english":"man, hero, husband","chapter":3,"part_of_speech":"Noun: 2nd Declension","category":"People"}
+{"latin":"populus, populi (m)","english":"people, the people, a nation","chapter":3,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
+{"latin":"puer, pueri (m)","english":"boy","chapter":3,"part_of_speech":"Noun: 2nd Declension","category":"People"}
+{"latin":"ager, agri (m)","english":"field, farm","chapter":3,"part_of_speech":"Noun: 2nd Declension","category":"Animals/Plants"}
+{"latin":"numerus, numeri (m)","english":"number","chapter":3,"part_of_speech":"Noun: 2nd Declension","category":"Measurement"}
+{"latin":"femina, feminae (f)","english":"woman","chapter":3,"part_of_speech":"Noun: 1st Declension","category":"People"}
+{"latin":"sapientia, sapientiae (f)","english":"wisdom","chapter":3,"part_of_speech":"Noun: 1st Declension","category":"Education/Knowledge"}
+{"latin":"pauci, paucae, pauca","english":"few, a few","chapter":3,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"filia, filiae (f)","english":"daughter (filiabus: dat. and abl. pl.)","chapter":3,"part_of_speech":"Noun: 1st Declension","category":"The Household"}
+{"latin":"agricola, agricolae (m)","english":"farmer","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"amica, amicae (f) and amicus, amici (m)","english":"friend","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"avarus, avara, avarum","english":"greedy, avaricious","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"de (+abl.)","english":"down from, from; concerning, about","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"filius, filii (m)","english":"son","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"hodie","english":"today","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"in (+abl.)","english":"in, on","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"Romanus, Romana, Romanum","english":"Roman","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"satio, satiāre, satiavi, satiatum","english":"to satisfy, sate","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"semper","english":"always","chapter":3,"part_of_speech":null,"category":null}
+{"latin":"sum, esse, fui, futurum","english":"to be, exist","chapter":4,"part_of_speech":"Verb: Irregular","category":"Life and Being"}
+{"latin":"bonus, bona, bonum","english":"good, kind","chapter":4,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"bellum, belli (n)","english":"war","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"parvus, parva, parvum","english":"small, little","chapter":4,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"cura, curae (f)","english":"care, attention, caution, anxiety","chapter":4,"part_of_speech":"Noun: 1st Declension","category":"Love"}
+{"latin":"oculus, oculi (m)","english":"eye","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"The Body"}
+{"latin":"consilium, consilii (n)","english":"plan, purpose, counsel, advice, judgement, wisdom","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
+{"latin":"malus, mala, malum","english":"bad, wicked, evil","chapter":4,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"periculum, periculi (n)","english":"danger, risk","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Violence"}
+{"latin":"humanus, humana, humanum","english":"pertaining to man, human; humane, kind, refined, cultivated","chapter":4,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"People"}
+{"latin":"iuvo, iuvāre, iuvi, iutum","english":"to help","chapter":4,"part_of_speech":"Verb: 1st Conjugation","category":"Social Life"}
+{"latin":"mora, morae (f)","english":"delay","chapter":4,"part_of_speech":"Noun: 1st Declension","category":"Time"}
+{"latin":"verus, vera, verum","english":"true, real, proper","chapter":4,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Speech/Oratory"}
+{"latin":"donum, doni (n)","english":"gift, present","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Social Life"}
+{"latin":"officium, officii (n)","english":"duty, service","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
+{"latin":"otium, otii (n)","english":"leisure, peace","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Social Life"}
+{"latin":"magister, magistri (m) or magistra,","english":"ae (f)","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Education/Knowledge"}
+{"latin":"basium, basii (n)","english":"kiss","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"bellus, bella, bellum","english":"pretty, handsome, charming","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"exitium, exitii (n)","english":"destruction, ruin","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"nihil","english":"nothing","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"remedium, remedii (n)","english":"cure, remedy","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"stultus, stulta, stultum","english":"foolish","chapter":4,"part_of_speech":null,"category":null}
+{"latin":"animus, animi (m)","english":"soul, spirit, mind; heart, mind, intellect, courage","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Life and Being"}
+{"latin":"-ne","english":"","chapter":5,"part_of_speech":"Conjunction: Enclitic","category":"Conjunctions/Adverbs"}
+{"latin":"noster, nostra, nostrum","english":"our","chapter":5,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"caelum, caeli (n)","english":"sky","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Air and Fire"}
+{"latin":"verbum, verbi (n)","english":"word","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Writing/Poetry"}
+{"latin":"liber, libera, liberum","english":"free","chapter":5,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Justice"}
+{"latin":"-ne","english":"","chapter":5,"part_of_speech":"Conjunction: Enclitic","category":"Pronouns/Interrogatives"}
+{"latin":"gloria, gloriae (f)","english":"glory","chapter":5,"part_of_speech":"Noun: 1st Declension","category":"Social Life"}
+{"latin":"pulcher, pulchra, pulchrum","english":"beautiful","chapter":5,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Vision"}
+{"latin":"supero, superāre, superavi, superatum","english":"to be above, have the upper hand, surpass; overcome, conquer","chapter":5,"part_of_speech":"Verb: 1st Conjugation","category":"War and Peace"}
+{"latin":"culpa, culpae (f)","english":"blame, fault","chapter":5,"part_of_speech":"Noun: 1st Declension","category":"Justice"}
+{"latin":"sanus, sana, sanum","english":"sound, healthy, sane","chapter":5,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Life and Being"}
+{"latin":"adulescentia, adulescentiae (f)","english":"youth, young manhood; youthfulness","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"ceno, cenāre, cenavi, cenatum","english":"to dine","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"cras","english":"tomorrow","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"culpo, culpāre, culpavi, culpatum","english":"to blame, censure","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"heri","english":"yesterday","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"igitur","english":"(post positive) therefore, consequently","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"propter (+acc.)","english":"on account of, because of","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"quando","english":"when","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"remaneo, remanēre, remansi, remansum (or maneo)","english":"to remain, stay; stay behind, abide, continue","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"satis","english":"enough, sufficient","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"te","english":"you (accusative)","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"tum","english":"then, at that time; thereupon, in the next place","chapter":5,"part_of_speech":null,"category":null}
+{"latin":"possum, posse, potui","english":"to be able, can, could, have power","chapter":6,"part_of_speech":"Verb: Irregular","category":"Making/Doing"}
+{"latin":"deus, dei (m)","english":"god","chapter":6,"part_of_speech":"Noun: 2nd Declension","category":"Religion"}
+{"latin":"vester, vestra, vestrum","english":"your (plural)","chapter":6,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"vitium, vitii (n)","english":"fault, crime, vice","chapter":6,"part_of_speech":"Noun: 2nd Declension","category":"Justice"}
+{"latin":"plenus, plena, plenum","english":"full, abundant, generous","chapter":6,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"secundus, secunda, secundum","english":"second; favorable","chapter":6,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"perpetuus, perpetua, perpetuum","english":"perpetual, lasting, uninterrupted, continuous","chapter":6,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Lengths of Time"}
+{"latin":"liber, libri (m)","english":"book","chapter":6,"part_of_speech":"Noun: 2nd Declension","category":"Writing/Poetry"}
+{"latin":"dea, deae (f)","english":"goddess","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"discipula, discipulae (f) and discipulus, discipuli (m)","english":"learner, pupil, student","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"Graecus, Graeca, Graecum","english":"Greek","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"ibi","english":"there","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"insidiae, insidiarum (f)","english":"ambush, plot, treachery","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"nunc","english":"now","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"quare","english":"because of which thing, therefore, wherefore, why","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"-que","english":"and (suffix added to the end a word, joining it to the previous)","chapter":6,"part_of_speech":"Conjunction: Enclitic","category":null}
+{"latin":"salvus, salva, salvum","english":"safe, sound","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"tolero, tolerāre, toleravi, toleratum","english":"to bear, endure","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"tyrannus, tyranni (m)","english":"absolute ruler, tyrant","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"ubi","english":"where, when","chapter":6,"part_of_speech":null,"category":null}
+{"latin":"rex, regis (m)","english":"king","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"terra, terrae (f)","english":"land, earth, ground, country","chapter":7,"part_of_speech":"Noun: 1st Declension","category":"Earth and Water"}
+{"latin":"corpus, corporis (n)","english":"body","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"homo, hominis (m)","english":"human being, man","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"People"}
+{"latin":"tempus, temporis (n)","english":"time; occasion, opportunity","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Time"}
+{"latin":"virtus, virtutis (f)","english":"manliness, courage; excellence, character, worth, virtue","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"amor, amoris (m)","english":"love","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Love"}
+{"latin":"sub (+abl. with verbs of rest, +acc. with verbs of motion)","english":"under, up under, close to, at the foot of","chapter":7,"part_of_speech":"Preposition","category":"Place"}
+{"latin":"nomen, nominis (n)","english":"name","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Social Life"}
+{"latin":"novus, nova, novum","english":"new; strange","chapter":7,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Time"}
+{"latin":"mos, moris (m)","english":"habit, custom, manner; (plural = character, morals)","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Social Life"}
+{"latin":"labor, laboris (m)","english":"work, work, toil; a work, production","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Business/Money"}
+{"latin":"carmen, carminis (n)","english":"song, poem","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"Writing/Poetry"}
+{"latin":"audeo, audēre, ausus sum","english":"to dare","chapter":7,"part_of_speech":"Verb: 2nd Conjugation","category":"Personality Traits/Characteristics"}
+{"latin":"civitas, civitatis (f)","english":"state, citizenship","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"pax, pacis (f)","english":"peace","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"virgo, virginis (f)","english":"maiden, virgin, young woman","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"People"}
+{"latin":"uxor, uxoris (f)","english":"wife","chapter":7,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"littera, litterae (f)","english":"a letter of the alphabet; (plural = letter, literature)","chapter":7,"part_of_speech":"Noun: 1st Declension","category":"Writing/Poetry"}
+{"latin":"neco, necāre, necavi, necatum","english":"to kill, murder","chapter":7,"part_of_speech":null,"category":null}
+{"latin":"post (+acc.)","english":"after, behind","chapter":7,"part_of_speech":null,"category":null}
+{"latin":"regina, reginae (f)","english":"queen","chapter":7,"part_of_speech":null,"category":null}
+{"latin":"ad (+acc.)","english":"to(ward), up to, near","chapter":8,"part_of_speech":"Preposition","category":"Place"}
+{"latin":"ago, agere, egi, actum","english":"to drive, lead, do, act; pass, spend","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"vinco, vincere, vici, victum","english":"to conquer, overcome","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"duco, ducere, duxi, ductum","english":"to lead, consider, regard; prolong","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"traho, trahere, traxi, tractum","english":"to drag, draw; derive, acquire","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"frater, fratris (m)","english":"brother","chapter":8,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"gero, gerere, gessi, gestum","english":"to carry; carry on, manage, conduct, wage","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"ratio, rationis (f)","english":"reckoning, account; reason, judgement, consideration; system; manner, method","chapter":8,"part_of_speech":"Noun: 3rd Declension","category":"Education/Knowledge"}
+{"latin":"copia, copiae (f)","english":"supply, abundance (plural = supplies, troops, forces)","chapter":8,"part_of_speech":"Noun: 1st Declension","category":"War and Peace"}
+{"latin":"doceo, docēre, docui, doctum","english":"to teach","chapter":8,"part_of_speech":"Verb: 2nd Conjugation","category":"Education/Knowledge"}
+{"latin":"laus, laudis (f)","english":"praise","chapter":8,"part_of_speech":"Noun: 3rd Declension","category":"Social Life"}
+{"latin":"disco, discere, didici","english":"to learn","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"libertas, libertatis (f)","english":"freedom, liberty","chapter":8,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"soror, sororis (f)","english":"sister","chapter":8,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"scribo, scribere, scripsi, scriptum","english":"to write, compose","chapter":8,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Writing/Poetry"}
+{"latin":"victoria, victoriae (f)","english":"victory","chapter":8,"part_of_speech":"Noun: 1st Declension","category":"War and Peace"}
+{"latin":"Cicero, Ciceronis (m)","english":"(Marcus Tullius) Cicero","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"demonstro, demonstrāre, demonstravi, demonstratum","english":"to point out, show","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"dum","english":"while, as long as","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"ex (+abl.)","english":"out of, from, from within; by reason of, on account of","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"numquam","english":"never","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"scriptor, scriptoris (m)","english":"writer, author","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"tamen","english":"nevertheless, still","chapter":8,"part_of_speech":null,"category":null}
+{"latin":"hic, haec, hoc","english":"this; the latter; (at times) he, she, it","chapter":9,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"ille, illa, illud","english":"that; the former; the famous; (at times) he, she, it","chapter":9,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"alius, alia, aliud","english":"other, another","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"nullus, nulla, nullum","english":"not any; no, none","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"unus, una, unum","english":"one, single, alone","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"locus, loci (m)","english":"place; passage in literature","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"Geography"}
+{"latin":"totus, tota, totum","english":"whole, entire","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"hic, haec, hoc","english":"this; the latter; (at times) he, she, it","chapter":9,"part_of_speech":"Adverb","category":"Place"}
+{"latin":"iste, ista, istud","english":"that of yours, that; (sometimes pejorative: that despicable, that wretched)","chapter":9,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"alter, altera, alterum","english":"the other (of two), second","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"solus, sola, solum","english":"alone, only (non solum . . . sed etiam","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"ullus, ulla, ulllum","english":"any","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"studium, studii (n)","english":"zeal, eagerness, pursuit, study","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"Emotions"}
+{"latin":"morbus, morbi (m)","english":"disease, sickness","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"The Body"}
+{"latin":"nimis or nimium","english":"too, too much, excessively","chapter":9,"part_of_speech":"Adverb","category":"Personality Traits/Characteristics"}
+{"latin":"enim","english":"(post positive) for; in fact, truly","chapter":9,"part_of_speech":null,"category":null}
+{"latin":"in (+acc.)","english":"into, on to, toward; against","chapter":9,"part_of_speech":null,"category":null}
+{"latin":"neuter, neutra neutrum","english":"neither, not either","chapter":9,"part_of_speech":null,"category":null}
+{"latin":"nimium","english":"too, too much, excessively","chapter":9,"part_of_speech":null,"category":null}
+{"latin":"uter, utra, utrum","english":"either, which (of two)","chapter":9,"part_of_speech":null,"category":null}
+{"latin":"facio, facere, feci, factum","english":"to make, do, accomplish","chapter":10,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Making/Doing"}
+{"latin":"dico, dicere, dixi, dictum","english":"to say; tell, speak; name, call","chapter":10,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Speech/Oratory"}
+{"latin":"venio, venire, veni, ventum","english":"to come","chapter":10,"part_of_speech":"Verb: 4th Conjugation","category":"Motion"}
+{"latin":"capio, capere, cepi, captum","english":"to take, capture, seize, get","chapter":10,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"War and Peace"}
+{"latin":"vivo, vivere, vixi, victum","english":"to live","chapter":10,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Life and Being"}
+{"latin":"audio, audire, audivi, auditum","english":"to hear, listen to","chapter":10,"part_of_speech":"Verb: 4th Conjugation","category":"Other Senses"}
+{"latin":"fugio, fugere, fugi, fugiturum","english":"to flee, hurry away; escape; go into exile; avoid, shun","chapter":10,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Travel"}
+{"latin":"natura, naturae (f)","english":"nature","chapter":10,"part_of_speech":"Noun: 1st Declension","category":"Life and Being"}
+{"latin":"via, viae (f)","english":"road, way, street","chapter":10,"part_of_speech":"Noun: 1st Declension","category":"Travel"}
+{"latin":"invenio, invenire, inveni, inventum","english":"to find, come upon, discover","chapter":10,"part_of_speech":"Verb: 4th Conjugation","category":"Travel"}
+{"latin":"voluptas, voluptatis (f)","english":"pleasure","chapter":10,"part_of_speech":"Noun: 3rd Declension","category":"Social Life"}
+{"latin":"beatus, beata, beatum","english":"happy, fortunate, blessed","chapter":10,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"timor, timoris (m)","english":"fear","chapter":10,"part_of_speech":"Noun: 3rd Declension","category":"Emotions"}
+{"latin":"hora, horae (f)","english":"hour, time","chapter":10,"part_of_speech":"Noun: 1st Declension","category":"Lengths of Time"}
+{"latin":"amicitia, amicitiae (f)","english":"friendship","chapter":10,"part_of_speech":"Noun: 1st Declension","category":"Social Life"}
+{"latin":"cum (+abl.)","english":"with","chapter":10,"part_of_speech":null,"category":null}
+{"latin":"cupiditas, cupiditatis (f)","english":"desire, longing, passion; avarice, cupidity","chapter":10,"part_of_speech":null,"category":null}
+{"latin":"quoniam","english":"since, inasmuch as","chapter":10,"part_of_speech":null,"category":null}
+{"latin":"senectus, senectutis (f)","english":"old age","chapter":10,"part_of_speech":null,"category":null}
+{"latin":"veritas, veritatis (f)","english":"truth","chapter":10,"part_of_speech":null,"category":null}
+{"latin":"tu, tui","english":"you","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"ego, mei","english":"I","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"is, ea, id","english":"he, she, it","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"nec","english":"and not, nor (neque/nec . . . neque/nec","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"idem, eadem, idem","english":"the same","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"neque/nec","english":"and not, nor (neque/nec . . . neque/nec","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"mitto, mittere, misi, missum","english":"to send, let go","chapter":11,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"caput, capitis (n)","english":"head; leader; beginning; life; heading; chapter","chapter":11,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"nemo, nullius, nemini, neminem, nullo/nulla","english":"no one, nobody","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"amicus, amica, amicum","english":"friendly","chapter":11,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"sentio, sentire, sensi, sensum","english":"to feel, perceive, think, experience","chapter":11,"part_of_speech":"Verb: 4th Conjugation","category":"Other Senses"}
+{"latin":"consul, consulis (m)","english":"consul","chapter":11,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"carus, cara, carum","english":"dear","chapter":11,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"intellego, intellegere, intellexi, intellectum","english":"to understand","chapter":11,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"autem","english":"(post positive) however; moreover","chapter":11,"part_of_speech":null,"category":null}
+{"latin":"bene","english":"well, satisfactorily, quite","chapter":11,"part_of_speech":null,"category":null}
+{"latin":"etiam","english":"even, also","chapter":11,"part_of_speech":null,"category":null}
+{"latin":"quod","english":"because","chapter":11,"part_of_speech":null,"category":null}
+{"latin":"pater, patris (m)","english":"father","chapter":12,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"mater, matris (f)","english":"mother","chapter":12,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"annus, anni (m)","english":"year","chapter":12,"part_of_speech":"Noun: 2nd Declension","category":"Lengths of Time"}
+{"latin":"cado, cadere, cecidi, casurum","english":"to fall","chapter":12,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Violence"}
+{"latin":"amitto, amittere, amisi, amissum","english":"to lose, let go","chapter":12,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"principium, principii (n)","english":"beginning","chapter":12,"part_of_speech":"Noun: 2nd Declension","category":"Time"}
+{"latin":"creo, creāre, creavi, creatum","english":"to create","chapter":12,"part_of_speech":"Verb: 1st Conjugation","category":"Making/Doing"}
+{"latin":"acerbus, acerba, acerbum","english":"harsh, bitter, grievous","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"adulescens, adulescentis (m/f)","english":"young man or woman","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"Asia, Asiae (f)","english":"Asia","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"Caesar, Caesaris (m)","english":"(Gaius Julius) Caesar","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"diu","english":"for a long time","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"medicus, medici (m)","english":"doctor, physician","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"nuper","english":"recently","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"patientia, patientiae (f)","english":"suffering; patience, endurance","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"pro (+abl.)","english":"in front of, before, on behalf of, for the sake of, in return for, instead of, for, as","chapter":12,"part_of_speech":null,"category":null}
+{"latin":"ipse, ipsa, ipsum","english":"(intensive pronoun) myself, yourself, him/her/itself, etc; the very, the actual","chapter":13,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"suus, sua, suum","english":"his own, her own, its own, their own","chapter":13,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"sto, stare, steti, statum","english":"to stand, stand still, stand firm","chapter":13,"part_of_speech":"Verb: 1st Conjugation","category":"Life and Being"}
+{"latin":"quisque, quidque","english":"each one, each person, each thing","chapter":13,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"signum, signi (n)","english":"sign, signal, indication; seal","chapter":13,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"iungo, iungere, iunxi, iunctum","english":"to join","chapter":13,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Making/Doing"}
+{"latin":"factum, facti (n)","english":"deed, act, achievement","chapter":13,"part_of_speech":"Noun: 2nd Declension","category":"Making/Doing"}
+{"latin":"divitiae, divitiarum (f)","english":"riches, wealth","chapter":13,"part_of_speech":"Noun: 1st Declension","category":"Business/Money"}
+{"latin":"alo, alere, alui, altum","english":"to nourish, support, sustain, increase; cherish","chapter":13,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Life and Being"}
+{"latin":"diligo, diligere, dilexi, dilectum","english":"to esteem, love","chapter":13,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Love"}
+{"latin":"ante (+acc.)","english":"before, in front of","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"doctus, docta, doctum","english":"taught, learned, skilled","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"fortunatus, fortunata, fortunatum","english":"forunate, lucky, happy","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"nam","english":"for","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"olim","english":"at that time, once, formerly; in the future","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"per (+acc.)","english":"through","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"sui","english":"(reflexive pronoun) him/her/itself, themselves","chapter":13,"part_of_speech":null,"category":null}
+{"latin":"a/ab (+abl.)","english":"away from, from; by","chapter":14,"part_of_speech":"Preposition","category":"Place"}
+{"latin":"pars, partis (f)*","english":"part, share; direction","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Measurement"}
+{"latin":"urbs, urbis (f)*","english":"city","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"mors, mortis (f)*","english":"death","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Life and Being"}
+{"latin":"teneo, tenere, tenui, tentum","english":"to hold, keep, possess; restrain","chapter":14,"part_of_speech":"Verb: 2nd Conjugation","category":"Other Senses"}
+{"latin":"vis, vis (f)","english":"force, power, violence (plural = strength)","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"mare, maris (n)*","english":"sea","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Earth and Water"}
+{"latin":"os, oris (n)","english":"mouth, face","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"ars, artis (f)*","english":"art, skill","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Education/Knowledge"}
+{"latin":"aqua, aquae (f)","english":"water","chapter":14,"part_of_speech":"Noun: 1st Declension","category":"Earth and Water"}
+{"latin":"ius, iuris (n)","english":"right, justice, law","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Justice"}
+{"latin":"muto, mutāre, mutavi, mutatum","english":"to change, alter; exchange","chapter":14,"part_of_speech":"Verb: 1st Conjugation","category":"Making/Doing"}
+{"latin":"turba, turbae (f)","english":"uproar, disturbance; mob, crowd, multitude","chapter":14,"part_of_speech":"Noun: 1st Declension","category":"The City"}
+{"latin":"auris, auris (f)*","english":"ear","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"civis, civis (m/f)*","english":"citizen","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"animal, animalis (n)*","english":"animal, living creature","chapter":14,"part_of_speech":"Noun: 3rd Declension","category":"Animals/Plants"}
+{"latin":"curro, currere, cucurri, cursum","english":"to run, rush, move quickly","chapter":14,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Athletics"}
+{"latin":"appello, appellāre, appellavi, appellatum","english":"to speak to, address (as), call, name","chapter":14,"part_of_speech":"Verb: 1st Conjugation","category":"Social Life"}
+{"latin":"vito, vitāre, vitavi, vitatum","english":"shun, avoid","chapter":14,"part_of_speech":"Verb: 1st Conjugation","category":"Social Life"}
+{"latin":"nubes, nubis (f)*","english":"cloud","chapter":14,"part_of_speech":null,"category":null}
+{"latin":"Roma, Romae (f)","english":"Rome","chapter":14,"part_of_speech":null,"category":null}
+{"latin":"trans (+acc.)","english":"across","chapter":14,"part_of_speech":null,"category":null}
+{"latin":"miser, misera, miserum","english":"sad, wretched, miserable, unfortunate","chapter":15,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Emotions"}
+{"latin":"timeo, timēre, timui","english":"to be afraid, fear","chapter":15,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
+{"latin":"exspecto, expsectāre, exspectavi, exspectatum","english":"to look for, expect, await","chapter":15,"part_of_speech":"Verb: 1st Conjugation","category":"Vision"}
+{"latin":"committo, committere, comisi, comissum","english":"to entrust, commit","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Social Life"}
+{"latin":"memoria, memoriae (f)","english":"memory, recollection","chapter":15,"part_of_speech":"Noun: 1st Declension","category":"Education/Knowledge"}
+{"latin":"tempestas, tempestatis (f)","english":"period of time, season; weather; storm","chapter":15,"part_of_speech":"Noun: 3rd Declension","category":"Lengths of Time"}
+{"latin":"iacio, iacere, ieci, iactum","english":"to thow; hurl","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Athletics"}
+{"latin":"centum","english":"hundred","chapter":15,"part_of_speech":null,"category":null}
+{"latin":"inter (+acc.)","english":"between, among","chapter":15,"part_of_speech":null,"category":null}
+{"latin":"Italia, Italiae (f)","english":"Italy","chapter":15,"part_of_speech":null,"category":null}
+{"latin":"itaque","english":"and so, therefore","chapter":15,"part_of_speech":null,"category":null}
+{"latin":"mille","english":"thousand","chapter":15,"part_of_speech":null,"category":null}
+{"latin":"omnis, omne","english":"every, all","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"longus, longa, longum","english":"long","chapter":16,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"mens, mentis (f)*","english":"mind, thought, intention","chapter":16,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"ingens (gen: ingentis)","english":"huge","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"fortis, forte","english":"brave, strong","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"aetas, aetatis (f)","english":"period of life, life, age, an age, time","chapter":16,"part_of_speech":"Noun: 3rd Declension","category":"Lengths of Time"}
+{"latin":"dulcis, dulce","english":"sweet, pleasant, agreeable","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Other Senses"}
+{"latin":"facilis, facile","english":"easy, agreeable","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"rego, regere, rexi, rectum","english":"to rule, guide, direct","chapter":16,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"The City"}
+{"latin":"senex (gen: senis)","english":"old, aged","chapter":16,"part_of_speech":"Noun: 3rd Declension","category":"People"}
+{"latin":"potens (gen: potentis)","english":"powerful","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"acer, acris, acre","english":"sharp, keep, eager; severe, fierce","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Other Senses"}
+{"latin":"brevis, breve","english":"short, small, brief","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"celer, celeris, celere","english":"quick, swift, rapid","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Time"}
+{"latin":"difficilis, difficile","english":"difficult, hard, troublesome","chapter":16,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"auditor, auditoris (m)","english":"hearer, listener; member of an audience","chapter":16,"part_of_speech":null,"category":null}
+{"latin":"clementia, clementiae (f)","english":"mercy, mildness, gentleness","chapter":16,"part_of_speech":null,"category":null}
+{"latin":"iucundus, iucunda, iucundum","english":"pleasant, delightful, agreeable, pleasing","chapter":16,"part_of_speech":null,"category":null}
+{"latin":"quam","english":"how","chapter":16,"part_of_speech":null,"category":null}
+{"latin":"satura, saturae (f)","english":"satire","chapter":16,"part_of_speech":null,"category":null}
+{"latin":"qui, quae, quod","english":"(relative pronoun) who, which, what, that","chapter":17,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"levis, leve","english":"light, trivial","chapter":17,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"coepi, coepisse, coeptum","english":"began","chapter":17,"part_of_speech":"Verb: Irregular","category":"Time"}
+{"latin":"incipio, incipere, incepi, inceptum","english":"to begin","chapter":17,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Time"}
+{"latin":"cupio, cupere, cupivi, cupitum","english":"to desire, wish, long for","chapter":17,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Love"}
+{"latin":"caecus, -a, -um","english":"blind","chapter":17,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Vision"}
+{"latin":"desidero, desiderāre, desideravi, desideratum","english":"to desire, long for, miss","chapter":17,"part_of_speech":"Verb: 1st Conjugation","category":"Love"}
+{"latin":"admitto, admittere, admisi, admissum","english":"to admit, receive, let in","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"aut","english":"or (aut . . . aut","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"cito","english":"quickly","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"deleo, delēre, delevi, deletum","english":"to destroy, wipe out, erase","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"libellus, libelli (m)","english":"little book","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"navigo, navigāre, navigavi, navigatum","english":"to sail, navigate","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"neglego, neglegere, neglexi, neglectum","english":"to neglect, disregard","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"quoque","english":"also, too","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"recito, recitāre, recitavi, recitatum","english":"to read aloud, recite","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"hostis, hostis (m)*","english":"an enemy (of the state); (plural = the enemy)","chapter":18,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"genus, generis (n)","english":"origin; kind, type, sort, class","chapter":18,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"moveo, movēre, movi, motum","english":"to move; arouse, affect","chapter":18,"part_of_speech":"Verb: 2nd Conjugation","category":"Motion"}
+{"latin":"flumen, fluminis (n)","english":"river","chapter":18,"part_of_speech":"Noun: 3rd Declension","category":"Earth and Water"}
+{"latin":"clarus, clara, clarum","english":"clear, bright, famous, renowned, illustrious","chapter":18,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"lego, legere, legi, lectum","english":"to read; pick out, choose, select","chapter":18,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Writing/Poetry"}
+{"latin":"misceo, miscēre, miscui, mixtum","english":"to mix, stir up, disturb","chapter":18,"part_of_speech":"Verb: 2nd Conjugation","category":"Earth and Water"}
+{"latin":"fluo, fluere, fluxi, fluxum","english":"to flow","chapter":18,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Earth and Water"}
+{"latin":"mortalis, mortale","english":"mortal","chapter":18,"part_of_speech":"Adjective: 3rd Declension","category":"Life and Being"}
+{"latin":"scientia, scientiae (f)","english":"knowledge","chapter":18,"part_of_speech":"Noun: 1st Declension","category":"Education/Knowledge"}
+{"latin":"cur","english":"why","chapter":18,"part_of_speech":null,"category":null}
+{"latin":"deinde","english":"then, next, thereupon","chapter":18,"part_of_speech":null,"category":null}
+{"latin":"ludus, ludi (m)","english":"game, sport; school","chapter":18,"part_of_speech":null,"category":null}
+{"latin":"probitas, probitatis (f)","english":"uprightness, honesty","chapter":18,"part_of_speech":null,"category":null}
+{"latin":"videor, vidēri, visus sum","english":"to be seen; seem, appear","chapter":18,"part_of_speech":null,"category":null}
+{"latin":"gravis, grave","english":"heavy, weighty; serious, important; severe, grievous","chapter":19,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"scelus, sceleris (n)","english":"crime, wickedness, evil deed","chapter":19,"part_of_speech":"Noun: 3rd Declension","category":"Justice"}
+{"latin":"paro, parāre, paravi, paratum","english":"to prepare, provide; get, obtain","chapter":19,"part_of_speech":"Verb: 1st Conjugation","category":"Making/Doing"}
+{"latin":"beneficium, beneficii (n)","english":"benefit, kindness; favor","chapter":19,"part_of_speech":"Noun: 2nd Declension","category":"Social Life"}
+{"latin":"certus, certa, certum","english":"definite, sure, certain, reliable","chapter":19,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"auctor, auctoris (m)","english":"increaser, author, originator","chapter":19,"part_of_speech":"Noun: 3rd Declension","category":"Writing/Poetry"}
+{"latin":"iudicium, iudicii (n)","english":"judgement, decision, opinion; trial","chapter":19,"part_of_speech":"Noun: 2nd Declension","category":"Justice"}
+{"latin":"iudex, iudicis (m)","english":"judge, juror","chapter":19,"part_of_speech":"Noun: 3rd Declension","category":"Justice"}
+{"latin":"familia, familiae (f)","english":"household, family","chapter":19,"part_of_speech":"Noun: 1st Declension","category":"The Household"}
+{"latin":"argumentum, argumenti (n)","english":"proof, evidence, argument","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"at","english":"but; but, mind you; but, you say (more emotional than sed)","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"contra (+acc.)","english":"against","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"delecto, delectāre, delectavi, delectatum","english":"to delight, charm, please","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"Graecia, Graeciae (f)","english":"Greece","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"iam","english":"now, already, soon","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"immortalis, immortale","english":"not subject to death, immortal","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"libero, liberāre, liberavi, liberatum","english":"to free, set free, liberate","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"nisi","english":"if . . . not, unless","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"qui? quae? quod?","english":"(interrogative adj)","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"quis? quid?","english":"(interrogative pronoun) who? whose? whom? what? which?","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"manus, manus (f)","english":"hand; handwriting; band","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"The Body"}
+{"latin":"metus, metus (m)","english":"fear","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Emotions"}
+{"latin":"mons, montis (m)*","english":"mountain","chapter":20,"part_of_speech":"Noun: 3rd Declension","category":"Geography"}
+{"latin":"dexter, dextra, dextrum","english":"right, right","chapter":20,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Place"}
+{"latin":"senatus, senatus (m)","english":"senate","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"The City"}
+{"latin":"careo, carēre, carui, cariturum (+abl.)","english":"to be without, to be deprived of, want, lack; be free from","chapter":20,"part_of_speech":"Verb: 2nd Conjugation","category":"Business/Money"}
+{"latin":"cornu, cornus (n)","english":"horn","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Animals/Plants"}
+{"latin":"prohibeo, prohibēre, prohibui, prohibitum","english":"to keep (back), prevent, hinder, restrain","chapter":20,"part_of_speech":"Verb: 2nd Conjugation","category":"Verbs of Compelling/Directing"}
+{"latin":"defendo, defendere, defendi, defensum","english":"to ward off; defend, protect","chapter":20,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"communis, commune","english":"common, general, of/for the community","chapter":20,"part_of_speech":"Adjective: 3rd Declension","category":"The City"}
+{"latin":"spiritus, spiritus (m)","english":"breath, breathing; spirit, soul","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Life and Being"}
+{"latin":"discedo, discedere, discessi, discessum","english":"to go away, depart","chapter":20,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Travel"}
+{"latin":"odi, odisse, osum","english":"to hate","chapter":20,"part_of_speech":"Verb: Irregular","category":"Emotions"}
+{"latin":"sensus, sensus (m)","english":"feeling, sense","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Emotions"}
+{"latin":"fructus, fructus (m)","english":"fruit; profit, benefit, enjoyment","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Animals/Plants"}
+{"latin":"coniurati, coniuratorum (m)","english":"conspirators","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"genu, genus (n)","english":"knee","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"pronuntio, pronuntiāre, pronuntiavi, pronuntiatum","english":"to proclaim, announce, declaim; pronounce","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"servitus, servitutis (f)","english":"slavery, servitude","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"sinister, sinistra, sinistrum","english":"left, left","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"versus, versus (m)","english":"line of verse, verse","chapter":20,"part_of_speech":null,"category":null}
+{"latin":"atque/ac","english":"and, and also, and even","chapter":21,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"ac","english":"and, and also, and even","chapter":21,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"iubeo, iubēre, iussi, iussum","english":"to order, bid, command","chapter":21,"part_of_speech":"Verb: 2nd Conjugation","category":"Justice"}
+{"latin":"causa, causae (f)","english":"cause, reason; case, situation. (in ablative + preceding genitive: for the sake of)","chapter":21,"part_of_speech":"Noun: 1st Declension","category":"Speech/Oratory"}
+{"latin":"relinquo, relinquere, reliqui, relictum","english":"to leave behind, leave, abandon, desert","chapter":21,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Motion"}
+{"latin":"scio, scire, scivi, scitum","english":"to know","chapter":21,"part_of_speech":"Verb: 4th Conjugation","category":"Education/Knowledge"}
+{"latin":"gens, gentis (f)*","english":"clan, race, nation, people","chapter":21,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"finis, finis (m)*","english":"end, limit, boundary; purpose","chapter":21,"part_of_speech":"Noun: 3rd Declension","category":"Geography"}
+{"latin":"rapio, rapere, rapui, raptum","english":"to seize, snatch, carry away","chapter":21,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Violence"}
+{"latin":"mundus, mundi (m)","english":"world, universe","chapter":21,"part_of_speech":"Noun: 2nd Declension","category":"Earth and Water"}
+{"latin":"navis, navis (f)*","english":"ship, boat","chapter":21,"part_of_speech":"Noun: 3rd Declension","category":"Travel"}
+{"latin":"tango, tangere, tetigi, tactum","english":"to touch","chapter":21,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Other Senses"}
+{"latin":"salus, salutis (f)","english":"health, safety; greeting","chapter":21,"part_of_speech":"Noun: 3rd Declension","category":"Life and Being"}
+{"latin":"vulgus, vulgi (n)","english":"the common people, mob, rabble","chapter":21,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
+{"latin":"contineo, continēre, continui, contentum","english":"to hold together, contain, keep, enclose","chapter":21,"part_of_speech":"Verb: 2nd Conjugation","category":"Verbs of Compelling/Directing"}
+{"latin":"laboro, laborāre, laboravi, laboratum","english":"to labor; be in distress","chapter":21,"part_of_speech":"Verb: 1st Conjugation","category":"Business/Money"}
+{"latin":"vicinus, vicini (m)","english":"neighbor","chapter":21,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Geography"}
+{"latin":"asper, aspera, asperum","english":"rough, harsh","chapter":21,"part_of_speech":null,"category":null}
+{"latin":"casa, casae (f)","english":"house, cottage, hut","chapter":21,"part_of_speech":null,"category":null}
+{"latin":"fenestra, fenestrae (f)","english":"window","chapter":21,"part_of_speech":null,"category":null}
+{"latin":"iterum","english":"again, a second time","chapter":21,"part_of_speech":null,"category":null}
+{"latin":"Troia, Troiae (f)","english":"Troy","chapter":21,"part_of_speech":null,"category":null}
+{"latin":"res, rei (f)","english":"thing, matter, business, affair","chapter":22,"part_of_speech":"Noun: 5th Declension","category":"Life and Being"}
+{"latin":"dies, diei (m)","english":"day","chapter":22,"part_of_speech":"Noun: 5th Declension","category":"Lengths of Time"}
+{"latin":"ignis, ignis (m)*","english":"fire","chapter":22,"part_of_speech":"Noun: 3rd Declension","category":"Air and Fire"}
+{"latin":"medius, media, medium","english":"middle, the middle of","chapter":22,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Place"}
+{"latin":"fides, fidei (f)","english":"faith, trust, trustworthiness, fidelity; promise, guarantee, protection","chapter":22,"part_of_speech":"Noun: 5th Declension","category":"Personality Traits/Characteristics"}
+{"latin":"modus, modi (m)","english":"measure, bound, limit; manner, method, mode, way","chapter":22,"part_of_speech":"Noun: 2nd Declension","category":"Measurement"}
+{"latin":"ferrum, ferri (n)","english":"iron; sword","chapter":22,"part_of_speech":"Noun: 2nd Declension","category":"Violence"}
+{"latin":"spes, spei (f)","english":"hope","chapter":22,"part_of_speech":"Noun: 5th Declension","category":"Emotions"}
+{"latin":"tollo, tollere, sustuli, sublatum","english":"to raise up, lift up; take away, remove, destroy","chapter":22,"part_of_speech":"Verb: Irregular","category":"Violence"}
+{"latin":"felix (gen: felicis)","english":"lucky, fortunate, happy","chapter":22,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"eripio, eripere, eripui, ereptum","english":"to snatch away, take away, rescue","chapter":22,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Verbs of Transport"}
+{"latin":"aequus, aequa, aequum","english":"level, even; calm, equal, just; favorable","chapter":22,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Justice"}
+{"latin":"cerno, cernere, crevi, cretum","english":"to distinguish, discern, perceive","chapter":22,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"incertus, incerta, incertum","english":"uncertain, unsure, doubtful","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"inquit","english":"he says, he said","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"Latinus, Latina, Latinum","english":"Latin","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"protinus","english":"immediately","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"quondam","english":"formerly, once","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"res publica, rei publicae (f) state, commonwealth, republic","english":"","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"ultra (+acc.)","english":"beyond, on the other side of","chapter":22,"part_of_speech":null,"category":null}
+{"latin":"aliquis, aliquid","english":"someone, somebody, something","chapter":23,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"peto, petere, petivi, petitum","english":"to seek, aim at, beseech","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Motion"}
+{"latin":"quisquis, quidquid","english":"whoever, whatever","chapter":23,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"miles, militis (m)","english":"soldier","chapter":23,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"dux, ducis (m)","english":"leader; guide; commander, general","chapter":23,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"premo, premere, pressi, pressum","english":"to press; press hard, pursue","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"litus, litoris (n)","english":"shore, coast","chapter":23,"part_of_speech":"Noun: 3rd Declension","category":"Geography"}
+{"latin":"equus, equi (m)","english":"horse","chapter":23,"part_of_speech":"Noun: 2nd Declension","category":"Animals/Plants"}
+{"latin":"verto, vertere, verti, versum","english":"to turn; change","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Motion"}
+{"latin":"ostendo, ostendere, ostendi, ostentum","english":"to exhibit, show, display","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Other Senses"}
+{"latin":"gaudeo, gaudēre, gavisus sum","english":"to rejoice, be glad","chapter":23,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
+{"latin":"arx, arcis (f)*","english":"citadel, stronghold","chapter":23,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"insula, insulae (f)","english":"island","chapter":23,"part_of_speech":"Noun: 1st Declension","category":"Geography"}
+{"latin":"educo, educāre, educavi, educatum","english":"to bring up, educate","chapter":23,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"sacerdos, sacerdotis (m)","english":"priest","chapter":23,"part_of_speech":"Noun: 3rd Declension","category":"Religion"}
+{"latin":"hasta, hastae (f)","english":"spear","chapter":23,"part_of_speech":null,"category":null}
+{"latin":"magnanimus, magnanima, magnanimum","english":"great-hearted, brave, magnanimous","chapter":23,"part_of_speech":null,"category":null}
+{"latin":"opprimo, opprimere, oppressi, oppressum","english":"to suppress, overwhelm, overpower, check","chapter":23,"part_of_speech":null,"category":null}
+{"latin":"orator, oratoris (m)","english":"orator; speaker","chapter":23,"part_of_speech":null,"category":null}
+{"latin":"umquam","english":"ever, at any time","chapter":23,"part_of_speech":null,"category":null}
+{"latin":"accipio, accipere, accepi, acceptum","english":"to take (to one’s self), receive, accept","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Social Life"}
+{"latin":"quaero, quaerere, quaesivi, quaesitum","english":"to seek, look for, strive for; ask, inquire, inquire into","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"imperium, imperii (n)","english":"power to command, supreme power, authority, command, control, imperium","chapter":24,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"recipio, recipere, recepi, receptum","english":"to take back, regain; admit, receive","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Verbs of Transport"}
+{"latin":"vulnus, vulneris (n)","english":"wound","chapter":24,"part_of_speech":"Noun: 3rd Declension","category":"Violence"}
+{"latin":"excipio, excipere, excepi, exceptum","english":"to take out, except; take, receive, capture","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Verbs of Transport"}
+{"latin":"servus, servi (m) or serva, servae (f)","english":"slave","chapter":24,"part_of_speech":"Noun: 2nd Declension","category":"The Household"}
+{"latin":"pello, pellere, pepuli, pulsum","english":"to strike, push; drive out, banish","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Violence"}
+{"latin":"imperator, imperatoris (m)","english":"general, commander-in-chief, emperor","chapter":24,"part_of_speech":"Noun: 3rd Declension","category":"War and Peace"}
+{"latin":"rideo, ridēre, risi, risum","english":"to laugh, laugh at","chapter":24,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Emotions"}
+{"latin":"narro, narrāre, narravi, narratum","english":"to tell, report, narrate","chapter":24,"part_of_speech":"Verb: 1st Conjugation","category":"Speech/Oratory"}
+{"latin":"fabula, fabulae (f)","english":"story, tale; play","chapter":24,"part_of_speech":"Noun: 1st Declension","category":"Writing/Poetry"}
+{"latin":"Carthago, Carthaginis (f)","english":"Carthage","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"expello, expellere, expuli, expulsum","english":"to drive out, expel, banish","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"perfugium, perfugii (n)","english":"refuge, solace, shelter","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"postea","english":"afterwards","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"solacium, solacii (n)","english":"comfort, relief","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"ut","english":"(+ind.) as, just as, when","chapter":24,"part_of_speech":null,"category":null}
+{"latin":"credo, credere, credidi, creditum","english":"to believe, trust","chapter":25,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"puto, putāre, putavi, putatum","english":"to reckon, suppose, judge, think, imagine","chapter":25,"part_of_speech":"Verb: 1st Conjugation","category":"Education/Knowledge"}
+{"latin":"iaceo, iacēre, iacui","english":"to lie; lie prostrate; lie dead","chapter":25,"part_of_speech":"Verb: 2nd Conjugation","category":"The House"}
+{"latin":"nego, negāre, negavi, negatum","english":"to deny, to say that . . . not","chapter":25,"part_of_speech":"Verb: 1st Conjugation","category":"Speech/Oratory"}
+{"latin":"ultimus, -a, -um","english":"farthest, extreme; last, final","chapter":25,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Geography"}
+{"latin":"sapiens (gen: sapientis)","english":"wise, judicious","chapter":25,"part_of_speech":"Adjective: 3rd Declension","category":"Education/Knowledge"}
+{"latin":"nescio, nescire, nescivi, nescitum","english":"not to know, to be ignorant","chapter":25,"part_of_speech":"Verb: 4th Conjugation","category":"Education/Knowledge"}
+{"latin":"spero, sperāre, speravi, speratum","english":"to hope for, hope","chapter":25,"part_of_speech":"Verb: 1st Conjugation","category":"Emotions"}
+{"latin":"lingua, linguae (f)","english":"language; tongue","chapter":25,"part_of_speech":"Noun: 1st Declension","category":"The Body"}
+{"latin":"suscipio, suscipere, suscepi, susceptum","english":"to undertake","chapter":25,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Verbs of Transport"}
+{"latin":"fidelis, fidele","english":"faithful, loyal","chapter":25,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"ait, aiunt","english":"he says, they say","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"dehinc","english":"then, next","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"ferox","english":"fierce, savage","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"geminus, -a, -um","english":"twin","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"hīc","english":"here","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"nuntio, nuntiāre, nuntiavi, nuntiatum","english":"to announce, report, relate","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"patefacio, patefacere, patefeci, patefactum","english":"to make open, open; disclose, expose","chapter":25,"part_of_speech":null,"category":null}
+{"latin":"nox, noctis (f)*","english":"night","chapter":26,"part_of_speech":"Noun: 3rd Declension","category":"Lengths of Time"}
+{"latin":"quidam, quaedam, quiddam","english":"certain, some","chapter":26,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"lex, legis (f)","english":"law, statute","chapter":26,"part_of_speech":"Noun: 3rd Declension","category":"Justice"}
+{"latin":"tristis, triste","english":"sad, sorrowful; joyless, grim, severe","chapter":26,"part_of_speech":"Adjective: 3rd Declension","category":"Emotions"}
+{"latin":"lux, lucis (f)","english":"light","chapter":26,"part_of_speech":"Noun: 3rd Declension","category":"Air and Fire"}
+{"latin":"turpis, turpe","english":"ugly; shameful, base, disgraceful","chapter":26,"part_of_speech":"Adjective: 3rd Declension","category":"Other Senses"}
+{"latin":"somnus, somni (m)","english":"sleep","chapter":26,"part_of_speech":"Noun: 2nd Declension","category":"Life and Being"}
+{"latin":"limen, liminis (n)","english":"threshold","chapter":26,"part_of_speech":"Noun: 3rd Declension","category":"The House"}
+{"latin":"superbus, superba, superbum","english":"arrogant, overbearing, haughty, proud","chapter":26,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"mensa, mensae (f)","english":"table","chapter":26,"part_of_speech":"Noun: 1st Declension","category":"The House"}
+{"latin":"forum, fori (n)","english":"forum, marketplace","chapter":26,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
+{"latin":"cena, cenae (f)","english":"dinner","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"invito, invitāre, invitavi, invitatum","english":"to entertain, invite; summon","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"prae (+abl.)","english":"in front of, before","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"pudicus, pudica, pudicum","english":"modest, chaste","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"quam","english":"than","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"tantum","english":"only","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"urbanus, urbana, urbanum","english":"of the city, urban; urbane, elegant","chapter":26,"part_of_speech":null,"category":null}
+{"latin":"primus, prima, primum","english":"first, foremost, chief, principal","chapter":27,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Time"}
+{"latin":"superus, supera, superum","english":"above, upper","chapter":27,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Religion"}
+{"latin":"pono, ponere, posui, positum","english":"to put, place, set","chapter":27,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Transport"}
+{"latin":"sol, solis (m)","english":"sun","chapter":27,"part_of_speech":"Noun: 3rd Declension","category":"Air and Fire"}
+{"latin":"similis, simile","english":"(+ gen. or dat.) similar (to), like, resembling","chapter":27,"part_of_speech":"Adjective: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"probo, probāre, probavi, probatum","english":"to approve, recommend; test","chapter":27,"part_of_speech":"Verb: 1st Conjugation","category":"Verbs of Compelling/Directing"}
+{"latin":"utilis, utile","english":"useful, advantageous","chapter":27,"part_of_speech":"Adjective: 3rd Declension","category":"Making/Doing"}
+{"latin":"delectatio, delectationis (f)","english":"delight, pleasure, enjoyment","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"diligens","english":"diligent, careful","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"dissimilis, dissimile","english":"unlike, different","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"gracilis, gracile","english":"slender, thin","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"humilis, humile","english":"humble, lowly","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"maior, maius","english":"greater; older","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"nepos, nepotis (m)","english":"grandson, descendant","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"quot","english":"how many, as many as","chapter":27,"part_of_speech":null,"category":null}
+{"latin":"arma, armorum (n)","english":"arms, weapons","chapter":28,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"parens, parentis (m/f)","english":"parent","chapter":28,"part_of_speech":"Noun: 3rd Declension","category":"The Household"}
+{"latin":"cedo, cedere, cessi, cessum","english":"to go, withdraw; yield to, grant, submit","chapter":28,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"princeps (gen: principis)","english":"chief, foremost","chapter":28,"part_of_speech":"Adjective: 3rd Declension","category":"The City"}
+{"latin":"cursus, cursus (m)","english":"running, race; course","chapter":28,"part_of_speech":"Noun: 4th Declension","category":"Athletics"}
+{"latin":"taceo, tacēre, tacui, tacitum","english":"to be silent, leave unmentioned","chapter":28,"part_of_speech":"Verb: 2nd Conjugation","category":"Other Senses"}
+{"latin":"praesto, praestāre, praestiti, praestitum","english":"to excel; exhibit, show, offer, supply, furnish","chapter":28,"part_of_speech":"Verb: 1st Conjugation","category":"Other Senses"}
+{"latin":"luna, lunae (f)","english":"moon","chapter":28,"part_of_speech":"Noun: 1st Declension","category":"Air and Fire"}
+{"latin":"stella, stellae (f)","english":"star","chapter":28,"part_of_speech":"Noun: 1st Declension","category":"Air and Fire"}
+{"latin":"dedico, dedicāre, dedicavi, dedicatum","english":"to dedicate","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"egeo, egēre, egui","english":"(+ abl. or gen.) to need, lack, want","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"expleo, explēre, explevi, expletum","english":"to fill, fill up, complete","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"mortuus, mortua, mortuum","english":"dead","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"-ne","english":"(+subj.) not, in order that . . . not, that . . . not, in order not to","chapter":28,"part_of_speech":"Conjunction: Enclitic","category":null}
+{"latin":"occasio, occasionis (f)","english":"occasion, opportunity","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"ut","english":"(+ind.) as, when; (+subj.) in order that, so that, that, in order to, so as to, to","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"vesper, vesperis/vesperi (m)","english":"evening; evening star","chapter":28,"part_of_speech":null,"category":null}
+{"latin":"tantus, tanta, tantum","english":"so large, so great, of such a size","chapter":29,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"fatum, fati (n)","english":"fate; death","chapter":29,"part_of_speech":"Noun: 2nd Declension","category":"Religion"}
+{"latin":"durus, dura, durum","english":"hard, harsh, rough, stern, unfeeling, hardy, difficult","chapter":29,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Other Senses"}
+{"latin":"dignus, digna, dignum","english":"(+abl.) worthy, worthy of","chapter":29,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"sidus, sideris (n)","english":"constellation, star","chapter":29,"part_of_speech":"Noun: 3rd Declension","category":"Air and Fire"}
+{"latin":"ingenium, ingenii (n)","english":"nature, innate talent","chapter":29,"part_of_speech":"Noun: 2nd Declension","category":"Education/Knowledge"}
+{"latin":"respondeo, respondēre, respondi, responsum","english":"to answer","chapter":29,"part_of_speech":"Verb: 2nd Conjugation","category":"Speech/Oratory"}
+{"latin":"condo, condere, condidi, conditum","english":"to put together/into, store; found, establish","chapter":29,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"The City"}
+{"latin":"surgo, surgere, surrexi, surrectum","english":"to get up, arise","chapter":29,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Earth and Water"}
+{"latin":"moenia, moenium (n)","english":"city walls","chapter":29,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"pugno, pugnāre, pugnavi, pugnatum","english":"to fight","chapter":29,"part_of_speech":"Verb: 1st Conjugation","category":"Violence"}
+{"latin":"contendo, contendere, contendi, contentum","english":"to strive, struggle, contend; hasten","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"denique","english":"finally, at last, lastly","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"ita","english":"so thus","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"mollio, mollire, mollivi, mollitum","english":"to soften; make calm, make less hostile","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"nata, natae (f)","english":"daughter","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"osculum, osculi (n)","english":"kiss","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"quidem","english":"indeed, certainly, at least, even","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"sic","english":"so thus","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"tam","english":"so, to such a degree (tam . . quam","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"vero","english":"in truth, indeed, to be sure, however","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"honor, honoris (m)","english":"honor, esteem; public office","chapter":30,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"quantus, quanta, quantum","english":"how large, how great, how much","chapter":30,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"cognosco, cognoscere, cognovi, cognitum","english":"to become acquainted with, learn, recognize","chapter":30,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"dubito, dubitāre, dubitavi, dubitatum","english":"to doubt, hesitate","chapter":30,"part_of_speech":"Verb: 1st Conjugation","category":"Education/Knowledge"}
+{"latin":"rogo, rogāre, rogavi, rogatum","english":"to ask","chapter":30,"part_of_speech":"Verb: 1st Conjugation","category":"Speech/Oratory"}
+{"latin":"consumo, consumere, consumpsi, consumptum","english":"to consume, use up","chapter":30,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Life and Being"}
+{"latin":"bibo, bibere, bibi","english":"to drink","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"ceteri, ceterae, cetera","english":"the remaining, the rest, the other, all the others","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"comprehendo, comprehendere, comprehendi, comprehensum","english":"to grasp, seize, arrest; comprehend, understand","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"expono, exponere, exposui, expositum","english":"to set forth, explain, expose","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"furtim","english":"stealthily, secretly","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"minuo, minuere, minui, minutum","english":"to lessen, diminish","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"mox","english":"soon","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"primo","english":"at first, at the beginning","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"repente","english":"suddenly","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"ridiculus, ridicula, ridiculum","english":"laughable, ridiculous","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"unde","english":"whence, from what/which place, from which, from whom","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"utrum . . . an","english":"whether . . . or","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"vivus, viva, vivum","english":"living, alive","chapter":30,"part_of_speech":null,"category":null}
+{"latin":"fero, ferre, tuli, latum","english":"to bear, bring; suffer, endure, tolerate, say, report","chapter":31,"part_of_speech":"Verb: Irregular","category":"Verbs of Transport"}
+{"latin":"refero, referre, rettuli, relatum","english":"to carry back, bring back; repeat, answer, report","chapter":31,"part_of_speech":"Verb: Irregular","category":"Verbs of Transport"}
+{"latin":"apud (+acc.)","english":"among, in the presence of, at the house of","chapter":31,"part_of_speech":"Preposition","category":"Place"}
+{"latin":"auxilium, auxilii (n)","english":"help, aid","chapter":31,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"vinum, vini (n)","english":"wine","chapter":31,"part_of_speech":"Noun: 2nd Declension","category":"Animals/Plants"}
+{"latin":"confero, conferre, contuli, collatum","english":"to bring together, compare; confer, bestow","chapter":31,"part_of_speech":"Verb: Irregular","category":"Verbs of Transport"}
+{"latin":"invidia, invidiae (f)","english":"jealousy","chapter":31,"part_of_speech":"Noun: 1st Declension","category":"Emotions"}
+{"latin":"doleo, dolēre, dolui, doliturum","english":"to grieve, suffer, hurt, give pain","chapter":31,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
+{"latin":"exsilium, exsilii (n)","english":"exile, banishment","chapter":31,"part_of_speech":"Noun: 2nd Declension","category":"Travel"}
+{"latin":"occido, occidere, occidi, occasum","english":"to fall down; die; set","chapter":31,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Violence"}
+{"latin":"offero, offere, obtuli, oblatum","english":"to offer","chapter":31,"part_of_speech":"Verb: Irregular","category":"Verbs of Transport"}
+{"latin":"dormio, dormire, dormivi, dormitum","english":"to sleep","chapter":31,"part_of_speech":"Verb: 4th Conjugation","category":"Life and Being"}
+{"latin":"adfero, adferre, attuli, allatum","english":"to bring to","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"as, assis (m)","english":"an as","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"cum (+subj.) when, since, although; (+ind.) when","english":"","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"digitus, digiti (m)","english":"finger, toe","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"elephantus, elephanti (m)","english":"elephant","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"invideo, invidēre, invidi, invisum","english":"to be envious (+dat.), to look at with envy, to envy, be jealous of","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"mediocris, mediocre","english":"ordinary, moderate, mediocre","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"rumor, rumoris (m)","english":"rumor, gossip","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"semel","english":"a single time, once, once and for all, simultaneously","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"usque","english":"all the way up (to), even (to), continuously, always","chapter":31,"part_of_speech":null,"category":null}
+{"latin":"volo, velle, volui","english":"to wish, want, be willing, will","chapter":32,"part_of_speech":"Verb: Irregular","category":"Emotions"}
+{"latin":"exercitus, exercitus (m)","english":"army","chapter":32,"part_of_speech":"Noun: 4th Declension","category":"War and Peace"}
+{"latin":"par (gen: paris) (+dat.)","english":"equal (to), like","chapter":32,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"nolo, nolle, nolui","english":"to not . . . wish, be unwilling","chapter":32,"part_of_speech":"Verb: Irregular","category":"Emotions"}
+{"latin":"pateo, patēre, patui","english":"to be open, lie open; be accessible; be evident","chapter":32,"part_of_speech":"Verb: 2nd Conjugation","category":"Geography"}
+{"latin":"praebeo, praebēre, praebui, praebitum","english":"to offer, provide","chapter":32,"part_of_speech":"Verb: 2nd Conjugation","category":"Verbs of Transport"}
+{"latin":"malo, malle, malui","english":"to want (something) more, instead; prefer","chapter":32,"part_of_speech":"Verb: Irregular","category":"Emotions"}
+{"latin":"promitto, promittere, promisi, promissum","english":"to send forth; promise","chapter":32,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"pauper (gen: pauperis)","english":"of small means, poor","chapter":32,"part_of_speech":"Adjective: 3rd Declension","category":"Business/Money"}
+{"latin":"custodia, custodiae (f)","english":"protection, custody (pl: guards)","chapter":32,"part_of_speech":null,"category":null}
+{"latin":"dives (gen: divitis or ditis)","english":"rich","chapter":32,"part_of_speech":null,"category":null}
+{"latin":"dummodo (+subj.)","english":"provided that, so long as","chapter":32,"part_of_speech":null,"category":null}
+{"latin":"paupertas, paupertatis (f)","english":"poverty","chapter":32,"part_of_speech":null,"category":null}
+{"latin":"quis, quid [after: si, nisi, num, or ne]","english":"anyone, anything, someone, something","chapter":33,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
+{"latin":"trado, tradere, tradidi, traditum","english":"to give over, surrender; hand down, transmit, teach (trans + do)","chapter":33,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Business/Money"}
+{"latin":"-ve","english":"or (suffix)","chapter":33,"part_of_speech":"Conjunction: Enclitic","category":"Conjunctions/Adverbs"}
+{"latin":"ops, opis (f)","english":"help, aid","chapter":33,"part_of_speech":"Noun: 3rd Declension","category":"Business/Money"}
+{"latin":"plebs, plebis (f)","english":"the common people, populace, plebeians","chapter":33,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
+{"latin":"initium, initii (n)","english":"beginning, commencement","chapter":33,"part_of_speech":"Noun: 2nd Declension","category":"Time"}
+{"latin":"candidatus, -a, -um","english":"shining, bright, white; beautiful","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"heu","english":"ah! alas!","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"merus, -a, -um","english":"pure, undiluted","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"philosophus, philosophi (m)","english":"philosopher","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"recuso, recusāre, recusavi, recusatum","english":"to refuse","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"sal, salis (m)","english":"salt; wit","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"sauvis, suave","english":"sweet","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"speculum, speculi (n)","english":"mirror","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"subito","english":"suddenly","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"sequor, sequi, secutus sum","english":"to follow","chapter":34,"part_of_speech":"Verb: Deponent","category":"Motion"}
+{"latin":"vox, vocis (f)","english":"voice","chapter":34,"part_of_speech":"Noun: 3rd Declension","category":"Speech/Oratory"}
+{"latin":"patior, pati, passus sum","english":"to suffer, endure; permit","chapter":34,"part_of_speech":"Verb: Deponent","category":"Verbs of Compelling/Directing"}
+{"latin":"talis, tale","english":"such, of such a sort","chapter":34,"part_of_speech":"Adjective: 3rd Declension","category":"Measurement"}
+{"latin":"morior, mori, mortuus sum","english":"to die","chapter":34,"part_of_speech":"Verb: Deponent","category":"Life and Being"}
+{"latin":"nascor, nasci, natus sum","english":"to be born; spring forth arise","chapter":34,"part_of_speech":"Verb: Deponent","category":"Life and Being"}
+{"latin":"loquor, loqui, locutus sum","english":"to speak, say, tell","chapter":34,"part_of_speech":"Verb: Deponent","category":"Speech/Oratory"}
+{"latin":"utor, uti, usus sum (+abl.)","english":"to use; enjoy, experience","chapter":34,"part_of_speech":"Verb: Deponent","category":"Making/Doing"}
+{"latin":"adversus, adversa, adversum","english":"opposite, adverse","chapter":34,"part_of_speech":"Adverb","category":"War and Peace"}
+{"latin":"specto, spectāre, spectavi, spectatum","english":"to look at, watch, see","chapter":34,"part_of_speech":"Verb: 1st Conjugation","category":"Vision"}
+{"latin":"anima, animae (f)","english":"soul, spirit","chapter":34,"part_of_speech":"Noun: 1st Declension","category":"Life and Being"}
+{"latin":"sedeo, sedēre, sedi, sessum","english":"to sit","chapter":34,"part_of_speech":"Verb: 2nd Conjugation","category":"The House"}
+{"latin":"cresco, crescere, crevi, cretum","english":"to increase","chapter":34,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Animals/Plants"}
+{"latin":"adversus, adversa, adversum","english":"opposite, adverse","chapter":34,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"War and Peace"}
+{"latin":"fateor, fatēri, fassus sum","english":"to confess, admit","chapter":34,"part_of_speech":"Verb: Deponent","category":"Justice"}
+{"latin":"proficiscor, proficisci, profectus sum","english":"to set out, start","chapter":34,"part_of_speech":"Verb: Deponent","category":"Travel"}
+{"latin":"hortor, hortāri, hortatus sum","english":"to encourage, urge","chapter":34,"part_of_speech":"Verb: Deponent","category":"Speech/Oratory"}
+{"latin":"conor, conāri, conatus sum","english":"to try, attempt","chapter":34,"part_of_speech":"Verb: Deponent","category":"Making/Doing"}
+{"latin":"egredior, egredi, egressus sum","english":"to go out","chapter":34,"part_of_speech":"Verb: Deponent","category":"Travel"}
+{"latin":"arbitror, arbitrāri, arbitratus sum","english":"to judge, think","chapter":34,"part_of_speech":"Verb: Deponent","category":"Education/Knowledge"}
+{"latin":"molior, moliri, molitus sum","english":"to work at, build, undertake, plan","chapter":34,"part_of_speech":null,"category":null}
+{"latin":"remissio, remissionis (f)","english":"letting go, release; relaxation","chapter":34,"part_of_speech":null,"category":null}
+{"latin":"rusticor, rusticāri, rusticatus sum","english":"to live in the country","chapter":34,"part_of_speech":null,"category":null}
+{"latin":"vae (often +dat.)","english":"alas, woe to","chapter":34,"part_of_speech":null,"category":null}
+{"latin":"pectus, pectoris (n)","english":"breast, heart","chapter":35,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"placeo, placēre, placui, placitum (+dat.)","english":"to be pleasing to, please","chapter":35,"part_of_speech":"Verb: 2nd Conjugation","category":"Social Life"}
+{"latin":"parco, parcere, peperci, parsurum (+dat.)","english":"to be lenient to; spare","chapter":35,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"War and Peace"}
+{"latin":"miror, mirāri, miratus sum","english":"to marvel at, admire, wonder","chapter":35,"part_of_speech":"Verb: Deponent","category":"Emotions"}
+{"latin":"noceo, nocēre, nocui, nocitum (+dat.)","english":"to do harm to, harm, injure","chapter":35,"part_of_speech":"Verb: 2nd Conjugation","category":"Violence"}
+{"latin":"impero, imperāre, imperavi, imperatum (+dat.)","english":"to give orders to, command","chapter":35,"part_of_speech":"Verb: 1st Conjugation","category":"War and Peace"}
+{"latin":"praemium, praemii (n)","english":"reward, prize","chapter":35,"part_of_speech":"Noun: 2nd Declension","category":"Business/Money"}
+{"latin":"pareo, parēre, parui (+dat.)","english":"to be obedient to, obey","chapter":35,"part_of_speech":"Verb: 2nd Conjugation","category":"Verbs of Compelling/Directing"}
+{"latin":"servio, servire, servivi, servitum (+dat.)","english":"to be a slave to, serve","chapter":35,"part_of_speech":"Verb: 4th Conjugation","category":"The Household"}
+{"latin":"studeo, studēre, studui (+dat.)","english":"to direct one’s zeal to, be eager for, study","chapter":35,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
+{"latin":"aestas, aestatis (f)","english":"summer","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"antepono, anteponere, anteposui, antepositum","english":"to put before, prefer","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"foveo, fovēre, fovi, fotum","english":"to comfort, nurture, cherish","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"ianua, ianuae (f)","english":"door","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"ignosco, ignoscere, ignovi, ignotum (+dat.)","english":"to grant pardon to, forgive","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"iratus, irata, iratum","english":"angry","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"nubo, nubere, nupsi, nuptum","english":"to cover, veil; (+dat.) to be married to, marry","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"persuadeo, persuadēre, persuasi, persuasum (+dat.)","english":"to succeed in urging, persuade, convince","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"sapio, sapere, sapivi","english":"to have good taste; have good sense, be wise","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"subrideo, subridēre, subrisi, subrisum","english":"to smile (down) upon","chapter":35,"part_of_speech":null,"category":null}
+{"latin":"fio, fieri, factus sum","english":"to occur, happen; become; be made, be done","chapter":36,"part_of_speech":"Verb: Irregular","category":"Life and Being"}
+{"latin":"cogo, cogere, coegi, coactum (cum + ago)","english":"to drive/bring together, force, compel","chapter":36,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"exigo, exigere, exegi, exactum (ex + ago)","english":"to drive out, force out, exact; drive through, complete, perfect","chapter":36,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
+{"latin":"vinculum, vinculi (n)","english":"chain, bond, fetter","chapter":36,"part_of_speech":"Noun: 2nd Declension","category":"War and Peace"}
+{"latin":"accedo, accedere, accessi, accessum","english":"to come (to), approach","chapter":36,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Motion"}
+{"latin":"contemno, contemnere, contempsi, contemptum","english":"to despise, scorn","chapter":36,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Emotions"}
+{"latin":"curo, curāre, curavi, curatum","english":"to care for, attend to; heal, cure","chapter":36,"part_of_speech":"Verb: 1st Conjugation","category":"Love"}
+{"latin":"oro, orāre, oravi, oratum","english":"to speak, plead; beg, beseech, entreat, pray","chapter":36,"part_of_speech":"Verb: 1st Conjugation","category":"Religion"}
+{"latin":"decerno, decernere,decrevi, decretum","english":"to decide, settle, decree","chapter":36,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Education/Knowledge"}
+{"latin":"cupido, cupidinis (f)","english":"desire, passion","chapter":36,"part_of_speech":"Noun: 3rd Declension","category":"Love"}
+{"latin":"carpo, carpere, carpsi, carptum","english":"to harvest, pluck; seize","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"contundo, contundere, contudi, contusum","english":"to beat, crush, bruise, destroy","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"cotidie","english":"daily, every day","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"fortasse","english":"perhaps","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"lector, lectoris (m) & lectrix lectricis (f)","english":"reader","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"oblecto, oblectāre, oblectavi, oblectatum","english":"to please, amuse, delight; pass time pleasantly","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"recreo, recreāre, recreavi, recreatum","english":"to restore, revive; refresh, cheer","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"requiro, requirere, requisivi, requisitum","english":"to seek, ask for; miss, need, require","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"sereno, serenāre, serenavi, serenatum","english":"to make clear, brighten; cheer up, soothe","chapter":36,"part_of_speech":null,"category":null}
+{"latin":"domus, domus (-i) (f)","english":"home, house","chapter":37,"part_of_speech":"Noun: 4th Declension","category":"The House"}
+{"latin":"eo, ire, ii, itum","english":"to go (also: abeo, adeo, exeo, ineo, obeo, pereo, redeo)","chapter":37,"part_of_speech":"Verb: Irregular","category":"Motion"}
+{"latin":"licet, licere, licuit (impersonal)","english":"it is permitted, one may","chapter":37,"part_of_speech":"Verb: Impersonal","category":"Justice"}
+{"latin":"iter, itineris (n)","english":"journey; route, road","chapter":37,"part_of_speech":"Noun: 3rd Declension","category":"Travel"}
+{"latin":"soleo, solēre, solitus sum","english":"to be accustomed","chapter":37,"part_of_speech":"Verb: 2nd Conjugation","category":"Personality Traits/Characteristics"}
+{"latin":"gratus, grata, gratum","english":"grateful; pleasing, agreeable","chapter":37,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"eo, ire, ii, itum","english":"to go (also: abeo, adeo, exeo, ineo, obeo, pereo, redeo)","chapter":37,"part_of_speech":"Adverb","category":"Place"}
+{"latin":"interficio, interficere, interfeci, interfectum","english":"to kill, murder","chapter":37,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Violence"}
+{"latin":"humus, humi (f)","english":"ground, earth; soil","chapter":37,"part_of_speech":"Noun: 2nd Declension","category":"Earth and Water"}
+{"latin":"licet, licere, licuit (impersonal)","english":"it is permitted, one may","chapter":37,"part_of_speech":"Conjunction","category":"Justice"}
+{"latin":"rus, ruris (n)","english":"the country, countryside","chapter":37,"part_of_speech":"Noun: 3rd Declension","category":"Geography"}
+{"latin":"absens (gen: absentis)","english":"absent","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"Athenae, Athenarum (f)","english":"Athens","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"foris","english":"out of doors, outside","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"idoneus, idonea, idoneum","english":"suitable, fit, appropriate","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"immotus, immota, immotum","english":"unmoved; unchanged; unrelenting","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"peregrinor, peregrinari, peregrinatus sum","english":"to travel abroad, wander","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"requiesco, requiescere, requievi, requietum","english":"to rest","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"Syracusae, Syracusarum (f)","english":"Syracuse","chapter":37,"part_of_speech":null,"category":null}
+{"latin":"dolor, doloris (m)","english":"pain, grief","chapter":38,"part_of_speech":"Noun: 3rd Declension","category":"Emotions"}
+{"latin":"pes, pedis (m)","english":"lower leg, foot","chapter":38,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
+{"latin":"opus, operis (n)","english":"work, task; deed, accomplishment","chapter":38,"part_of_speech":"Noun: 3rd Declension","category":"Business/Money"}
+{"latin":"arbor, arboris (f)","english":"tree","chapter":38,"part_of_speech":"Noun: 3rd Declension","category":"Animals/Plants"}
+{"latin":"odium, odii (n)","english":"hatred","chapter":38,"part_of_speech":"Noun: 2nd Declension","category":"Emotions"}
+{"latin":"dignitas, dignitatis (f)","english":"merit, prestige, dignity","chapter":38,"part_of_speech":"Noun: 3rd Declension","category":"Personality Traits/Characteristics"}
+{"latin":"erga (+acc.)","english":"toward","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"etsi","english":"even if","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"firmus, firma, firmum","english":"firm, strong; reliable","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"infirmus, infirma, infirmum","english":"not strong, weak, feeble","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"libenter","english":"with pleasure, gladly","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"mirabilis, mirabile","english":"amazing, wondrous","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"pristinus, pristina, pristinum","english":"ancient; former, previous","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"sator, satoris (m)","english":"sower, planter; begetter, father; founder","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"sublimis, sublime","english":"elevated, lofty; heroic, noble","chapter":38,"part_of_speech":null,"category":null}
+{"latin":"ventus, venti (m)","english":"wind","chapter":39,"part_of_speech":"Noun: 2nd Declension","category":"Air and Fire"}
+{"latin":"vetus (gen: veteris)","english":"old","chapter":39,"part_of_speech":"Adjective: 3rd Declension","category":"Time"}
+{"latin":"iniuria, inuriae (f)","english":"injury, injustice, wrong","chapter":39,"part_of_speech":"Noun: 1st Declension","category":"Justice"}
+{"latin":"transeo, transire, transii, transitum","english":"to go across, cross; pass over, ignore","chapter":39,"part_of_speech":"Verb: Irregular","category":"Travel"}
+{"latin":"experior, experiri, expertus sum","english":"to try, test; experience","chapter":39,"part_of_speech":"Verb: Deponent","category":"Education/Knowledge"}
+{"latin":"oportet, oportere, oportuit (impersonal)","english":"it is proper, right, necessary","chapter":39,"part_of_speech":"Verb: Impersonal","category":"Social Life"}
+{"latin":"mulier, mulieris (f)","english":"woman","chapter":39,"part_of_speech":"Noun: 3rd Declension","category":"People"}
+{"latin":"aedificium, aedificii (n)","english":"building, structure","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"ambulo, ambulāre, ambulavi, ambulatum","english":"to walk","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"cupidus, cupida, cupidum","english":"desirous, eager, fond; (often +gen.)","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"liberalis, liberale","english":"of, relating to a free person; worthy of a free man, decent, liberal; generous","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"libo, libāre, libavi, libatum","english":"to pour a libation on; pour ritually; sip; touch gently","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"necesse","english":"necessary, inevitable","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"oppugno, oppugnāre, oppugnavi, oppugnatum","english":"to fight against, attack, assault, assail","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"orno, ornāre, ornavi, ornatum","english":"to equip, furnish, adorn","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"pernocto, pernoctāre, pernoctavi, pernoctatum","english":"to spend the night","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"quasi","english":"as if, as it were","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"transitus, transitus (m)","english":"passing over, transit; transition","chapter":39,"part_of_speech":null,"category":null}
+{"latin":"vultus, vultus (m)","english":"countenance, face","chapter":40,"part_of_speech":"Noun: 4th Declension","category":"The Body"}
+{"latin":"dominus, domini (n)","english":"master","chapter":40,"part_of_speech":"Noun: 2nd Declension","category":"The Household"}
+{"latin":"saxum, saxi (n)","english":"rock","chapter":40,"part_of_speech":"Noun: 2nd Declension","category":"Earth and Water"}
+{"latin":"lacrima, lacrimae (f)","english":"tear","chapter":40,"part_of_speech":"Noun: 1st Declension","category":"Emotions"}
+{"latin":"for, fāri, fatus sum","english":"to speak (prophetically), talk, foretell","chapter":40,"part_of_speech":"Verb: Deponent","category":"Speech/Oratory"}
+{"latin":"aes, aeris (n)","english":"bronze","chapter":40,"part_of_speech":"Noun: 3rd Declension","category":"Business/Money"}
+{"latin":"reperio, reperire, repperi, repertum","english":"to find, discover, learn; get","chapter":40,"part_of_speech":"Verb: 4th Conjugation","category":"Education/Knowledge"}
+{"latin":"iustus, iusta, iustum","english":"just, right","chapter":40,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Justice"}
+{"latin":"vereor, verēri, veritus sum","english":"to show reverence for, respect; be afraid of","chapter":40,"part_of_speech":"Verb: Deponent","category":"Emotions"}
+{"latin":"explico, explicāre, explicavi, explicatum","english":"to unfold; explain; spread out, deploy","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"fatigo, fatigāre, fatigavi, fatigatum","english":"to weary, tire out","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"meta, metae (f)","english":"turning point, goal; limit, boundary","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"monumentum, monumenti (n)","english":"monument","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"nasus, nasi (m)","english":"nose","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"nonne","english":"introduces question anticipating a “yes”","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"num","english":"1. introduces question anticipating a “no”. 2. introduces indirect questions and means “whether.”","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"omnino","english":"wholly, entirely, altogether","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"opinor, opināri, opinatus sum","english":"to suppose","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"postremum","english":"after all, finally; for the last time","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"praeter (+acc.)","english":"besides, except; beyond, past","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"quin","english":"indeed, in fact","chapter":40,"part_of_speech":null,"category":null}
+{"latin":"tot","english":"so many","chapter":40,"part_of_speech":null,"category":null}
