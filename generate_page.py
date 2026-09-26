@@ -116,7 +116,8 @@ function update(){
   if(lower==='to'){ render(pool); return; }  // lone 'to' filters nothing
   // "to X" => search only verbs' english by the stem after 'to'
   if(/^to\s+\S+/.test(lower)){
-    var vpool=posSel.value?pool:pool.filter(function(e){return e.pos==='v.';});
+    // verb pool: tagged verbs + any entry whose English starts with 'to ' (covers untagged verbs)
+    var vpool=posSel.value?pool:pool.filter(function(e){return e.pos==='v.'||e.english.toLowerCase().indexOf('to ')==0;});
     var stem=lower.replace(/^to\s+/,'').trim();
     var vtoks=stem.split(/\s+/).filter(Boolean);
     function vKey(s){ return s.toLowerCase().replace(/^to\s+/,''); }
