@@ -35,7 +35,7 @@
 {"latin":"porta, portae (f)","english":"gate, entrance","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"The City"}
 {"latin":"poeta, poetae (m)","english":"poet","chapter":2,"part_of_speech":"Noun: 1st Declension","category":"Writing/Poetry"}
 {"latin":"est","english":"is","chapter":2,"part_of_speech":null,"category":null}
-{"latin":"et","english":"and (et . . . et","chapter":2,"part_of_speech":null,"category":null}
+{"latin":"et","english":"and (et . . . et)","chapter":2,"part_of_speech":null,"category":null}
 {"latin":"nauta, nautae (m)","english":"sailor","chapter":2,"part_of_speech":null,"category":null}
 {"latin":"philosophia, philosophiae (f)","english":"philosophy","chapter":2,"part_of_speech":null,"category":null}
 {"latin":"rosa, rosae (f)","english":"rose","chapter":2,"part_of_speech":null,"category":null}
@@ -122,7 +122,7 @@
 {"latin":"insidiae, insidiarum (f)","english":"ambush, plot, treachery","chapter":6,"part_of_speech":null,"category":null}
 {"latin":"nunc","english":"now","chapter":6,"part_of_speech":null,"category":null}
 {"latin":"quare","english":"because of which thing, therefore, wherefore, why","chapter":6,"part_of_speech":null,"category":null}
-{"latin":"-que","english":"and (suffix added to the end a word, joining it to the previous)","chapter":6,"part_of_speech":"Conjunction: Enclitic","category":null}
+{"latin":"-que","english":"and (suffix added to the end of a word, joining it to the previous)","chapter":6,"part_of_speech":"Conjunction: Enclitic","category":null}
 {"latin":"salvus, salva, salvum","english":"safe, sound","chapter":6,"part_of_speech":null,"category":null}
 {"latin":"tolero, tolerāre, toleravi, toleratum","english":"to bear, endure","chapter":6,"part_of_speech":null,"category":null}
 {"latin":"tyrannus, tyranni (m)","english":"absolute ruler, tyrant","chapter":6,"part_of_speech":null,"category":null}
@@ -182,7 +182,7 @@
 {"latin":"hic, haec, hoc","english":"this; the latter; (at times) he, she, it","chapter":9,"part_of_speech":"Adverb","category":"Place"}
 {"latin":"iste, ista, istud","english":"that of yours, that; (sometimes pejorative: that despicable, that wretched)","chapter":9,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"alter, altera, alterum","english":"the other (of two), second","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
-{"latin":"solus, sola, solum","english":"alone, only (non solum . . . sed etiam","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
+{"latin":"solus, sola, solum","english":"alone, only (non solum . . . sed etiam)","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
 {"latin":"ullus, ulla, ulllum","english":"any","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
 {"latin":"studium, studii (n)","english":"zeal, eagerness, pursuit, study","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"Emotions"}
 {"latin":"morbus, morbi (m)","english":"disease, sickness","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"The Body"}
@@ -325,7 +325,7 @@
 {"latin":"caecus, -a, -um","english":"blind","chapter":17,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Vision"}
 {"latin":"desidero, desiderāre, desideravi, desideratum","english":"to desire, long for, miss","chapter":17,"part_of_speech":"Verb: 1st Conjugation","category":"Love"}
 {"latin":"admitto, admittere, admisi, admissum","english":"to admit, receive, let in","chapter":17,"part_of_speech":null,"category":null}
-{"latin":"aut","english":"or (aut . . . aut","chapter":17,"part_of_speech":null,"category":null}
+{"latin":"aut","english":"or (aut . . . aut)","chapter":17,"part_of_speech":null,"category":null}
 {"latin":"cito","english":"quickly","chapter":17,"part_of_speech":null,"category":null}
 {"latin":"deleo, delēre, delevi, deletum","english":"to destroy, wipe out, erase","chapter":17,"part_of_speech":null,"category":null}
 {"latin":"libellus, libelli (m)","english":"little book","chapter":17,"part_of_speech":null,"category":null}
@@ -366,7 +366,7 @@
 {"latin":"immortalis, immortale","english":"not subject to death, immortal","chapter":19,"part_of_speech":null,"category":null}
 {"latin":"libero, liberāre, liberavi, liberatum","english":"to free, set free, liberate","chapter":19,"part_of_speech":null,"category":null}
 {"latin":"nisi","english":"if . . . not, unless","chapter":19,"part_of_speech":null,"category":null}
-{"latin":"qui? quae? quod?","english":"(interrogative adj)","chapter":19,"part_of_speech":null,"category":null}
+{"latin":"qui? quae? quod?","english":"(interrogative adj.)","chapter":19,"part_of_speech":null,"category":null}
 {"latin":"quis? quid?","english":"(interrogative pronoun) who? whose? whom? what? which?","chapter":19,"part_of_speech":null,"category":null}
 {"latin":"manus, manus (f)","english":"hand; handwriting; band","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"The Body"}
 {"latin":"metus, metus (m)","english":"fear","chapter":20,"part_of_speech":"Noun: 4th Declension","category":"Emotions"}
@@ -556,7 +556,7 @@
 {"latin":"osculum, osculi (n)","english":"kiss","chapter":29,"part_of_speech":null,"category":null}
 {"latin":"quidem","english":"indeed, certainly, at least, even","chapter":29,"part_of_speech":null,"category":null}
 {"latin":"sic","english":"so thus","chapter":29,"part_of_speech":null,"category":null}
-{"latin":"tam","english":"so, to such a degree (tam . . quam","chapter":29,"part_of_speech":null,"category":null}
+{"latin":"tam","english":"so, to such a degree (tam . . . quam)","chapter":29,"part_of_speech":null,"category":null}
 {"latin":"vero","english":"in truth, indeed, to be sure, however","chapter":29,"part_of_speech":null,"category":null}
 {"latin":"honor, honoris (m)","english":"honor, esteem; public office","chapter":30,"part_of_speech":"Noun: 3rd Declension","category":"The City"}
 {"latin":"quantus, quanta, quantum","english":"how large, how great, how much","chapter":30,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
