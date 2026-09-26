@@ -85,7 +85,7 @@
 {"latin":"remedium, remedii (n)","english":"cure, remedy","chapter":4,"part_of_speech":null,"category":null}
 {"latin":"stultus, stulta, stultum","english":"foolish","chapter":4,"part_of_speech":null,"category":null}
 {"latin":"animus, animi (m)","english":"soul, spirit, mind; heart, mind, intellect, courage","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Life and Being"}
-{"latin":"-ne","english":"","chapter":5,"part_of_speech":"Conjunction: Enclitic","category":"Conjunctions/Adverbs"}
+{"latin":"-ne","english":"(suffix used to signal a true/false question)","chapter":5,"part_of_speech":"Conjunction: Enclitic","category":"Conjunctions/Adverbs"}
 {"latin":"noster, nostra, nostrum","english":"our","chapter":5,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"caelum, caeli (n)","english":"sky","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Air and Fire"}
 {"latin":"verbum, verbi (n)","english":"word","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Writing/Poetry"}
