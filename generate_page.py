@@ -167,6 +167,9 @@ def main():
             '<h1 style="padding:10px 0 0 10px; margin:0;">Wheelock Latin Vocabulary Search</h1>\n'
             '<div id="controls" style="padding:10px 0 0 10px;">' + CONTROLS + '</div>\n'
             '<div id="list" style="padding:10px;"></div>\n'
+            '<div style="position:fixed; bottom:10px; right:10px; font-size:12px; color:#555;">'
+            '(This vocabulary is pulled directly from Wheelock\'s Latin and three other sources! '
+            'It is 99% right but please report if some entries are wrong!)</div>\n'
             '<script>\nvar ENTRIES=' + esc(entries) + ';\n' + JS + '</script>\n</body>\n</html>')
     with open(OUT, 'w', encoding='utf-8') as f:
         f.write(html)
