@@ -120,21 +120,19 @@ function update(){
     return;
   }
   var lower=q.toLowerCase();
-  function engKey(s){ return s.toLowerCase().replace(/^to\s+/,''); }  // strip leading 'to ' for verbs
-  var target=lower.replace(/^to\s+/,'');
-  var toks=target.split(/\s+/).filter(Boolean);
+  var toks=lower.split(/\s+/);
   function engScore(en){
-    var e=engKey(en), s=0;
-    if(e.indexOf(target)!==-1) s+=100;          // exact/substring of (stripped) phrase
+    var s=0, e=en.toLowerCase();
+    if(e.indexOf(lower)!==-1) s+=100;          // exact/substring of full phrase
     toks.forEach(function(t){ if(t&&e.indexOf(t)!==-1) s+=20; });
-    s-=Math.min(en.length,200)/200;            // shorter defs win ties
+    s-=Math.min(e.length,200)/200;            // shorter defs win ties
     return s;
   }
   var scored=pool.map(function(e){ return {e:e,s:engScore(e.english)}; })
     .filter(function(x){ return x.s>0; })
     .sort(function(a,b){ return b.s-a.s; });  // closest first
-  var exact=scored.filter(function(x){ return engKey(x.e.english).indexOf(target)!==-1; }).map(function(x){ return x.e; });
-  var similar=scored.filter(function(x){ return engKey(x.e.english).indexOf(target)===-1; }).map(function(x){ return x.e; });
+  var exact=scored.filter(function(x){ return x.e.english.toLowerCase().indexOf(lower)!==-1; }).map(function(x){ return x.e; });
+  var similar=scored.filter(function(x){ return x.e.english.toLowerCase().indexOf(lower)===-1; }).map(function(x){ return x.e; });
   renderSplit(exact,similar);
 }
 posSel.addEventListener('change',function(){ refreshDecl(); update(); });
