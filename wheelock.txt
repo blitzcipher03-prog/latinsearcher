@@ -215,9 +215,9 @@
 {"latin":"tu, tui","english":"you","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"ego, mei","english":"I","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"is, ea, id","english":"he, she, it","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
-{"latin":"nec","english":"and not, nor (neque/nec . . . neque/nec","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"nec","english":"and not, nor (neque/nec . . . neque/nec)","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
 {"latin":"idem, eadem, idem","english":"the same","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
-{"latin":"neque/nec","english":"and not, nor (neque/nec . . . neque/nec","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
+{"latin":"neque/nec","english":"and not, nor (neque/nec . . . neque/nec)","chapter":11,"part_of_speech":"Conjunction","category":"Conjunctions/Adverbs"}
 {"latin":"mitto, mittere, misi, missum","english":"to send, let go","chapter":11,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Verbs of Compelling/Directing"}
 {"latin":"caput, capitis (n)","english":"head; leader; beginning; life; heading; chapter","chapter":11,"part_of_speech":"Noun: 3rd Declension","category":"The Body"}
 {"latin":"nemo, nullius, nemini, neminem, nullo/nulla","english":"no one, nobody","chapter":11,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
