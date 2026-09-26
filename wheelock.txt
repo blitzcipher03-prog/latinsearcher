@@ -533,7 +533,7 @@
 {"latin":"egeo, egēre, egui","english":"(+ abl. or gen.) to need, lack, want","chapter":28,"part_of_speech":null,"category":null}
 {"latin":"expleo, explēre, explevi, expletum","english":"to fill, fill up, complete","chapter":28,"part_of_speech":null,"category":null}
 {"latin":"mortuus, mortua, mortuum","english":"dead","chapter":28,"part_of_speech":null,"category":null}
-{"latin":"-ne","english":"(+subj.) not, in order that . . . not, that . . . not, in order not to","chapter":28,"part_of_speech":"Conjunction: Enclitic","category":null}
+{"latin":"-nē","english":"(+subj.) not, in order that . . . not, that . . . not, in order not to","chapter":28,"part_of_speech":"Conjunction","category":null}
 {"latin":"occasio, occasionis (f)","english":"occasion, opportunity","chapter":28,"part_of_speech":null,"category":null}
 {"latin":"ut","english":"(+ind.) as, when; (+subj.) in order that, so that, that, in order to, so as to, to","chapter":28,"part_of_speech":null,"category":null}
 {"latin":"vesper, vesperis/vesperi (m)","english":"evening; evening star","chapter":28,"part_of_speech":null,"category":null}
