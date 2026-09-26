@@ -63,8 +63,9 @@ var chapIn=document.getElementById('chapter');
 var list=document.getElementById('list');
 var FULLPOS={'v.':'verb','n.':'noun','adj.':'adjective','adv.':'adverb','pron.':'pronoun','conj.':'conjunction','conj. (encl.)':'conjunction (enclitic)','prep.':'preposition','interj.':'interjection'};
 
-function tokensIn(hay,q){ var h=hay.toLowerCase(); return q.toLowerCase().split(/\s+/).filter(Boolean).every(function(t){return h.indexOf(t)!==-1;}); }
-function latinTokens(s){ return s.toLowerCase().split(/[^a-zāēīōūȳ]+/).filter(function(x){return x;}); }
+function nrm(s){ return s.toLowerCase().replace(/ā/g,'a').replace(/ē/g,'e').replace(/ī/g,'i').replace(/ō/g,'o').replace(/ū/g,'u').replace(/ȳ/g,'y'); }
+function tokensIn(hay,q){ var h=nrm(hay); return nrm(q).split(/\s+/).filter(Boolean).every(function(t){return h.indexOf(t)!==-1;}); }
+function latinTokens(s){ return nrm(s).split(/[^a-z]+/).filter(function(x){return x;}); }
 function exactLatin(e,q){ var tl=latinTokens(e.latin); return q.toLowerCase().split(/\s+/).filter(Boolean).every(function(t){return tl.indexOf(t)!==-1;}); }
 function fillPairs(sel,pairs){ sel.innerHTML='<option value="">All</option>'+pairs.map(function(p){return '<option value="'+p[0]+'">'+p[1]+'</option>';}).join(''); }
 function fill(sel,opts){ fillPairs(sel,opts.map(function(o){return [o,o];})); }
