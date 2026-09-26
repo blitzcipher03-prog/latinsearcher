@@ -90,7 +90,6 @@
 {"latin":"caelum, caeli (n)","english":"sky","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Air and Fire"}
 {"latin":"verbum, verbi (n)","english":"word","chapter":5,"part_of_speech":"Noun: 2nd Declension","category":"Writing/Poetry"}
 {"latin":"liber, libera, liberum","english":"free","chapter":5,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Justice"}
-{"latin":"-ne","english":"","chapter":5,"part_of_speech":"Conjunction: Enclitic","category":"Pronouns/Interrogatives"}
 {"latin":"gloria, gloriae (f)","english":"glory","chapter":5,"part_of_speech":"Noun: 1st Declension","category":"Social Life"}
 {"latin":"pulcher, pulchra, pulchrum","english":"beautiful","chapter":5,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Vision"}
 {"latin":"supero, superāre, superavi, superatum","english":"to be above, have the upper hand, surpass; overcome, conquer","chapter":5,"part_of_speech":"Verb: 1st Conjugation","category":"War and Peace"}
