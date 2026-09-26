@@ -81,6 +81,8 @@ function update(){
   var q=input.value.trim(), chap=getChap();
   var pool=ENTRIES.filter(passes);
   if(!q){ render(pool); return; }
+  // typing just 'to' (or 'to ') should not filter verbs out
+  if(q.toLowerCase().replace(/^to(?:\s+|$)/, '') === ''){ render(pool); return; }
   var lat=pool.filter(function(e){ return tokensIn(e.latin,q); });
   if(lat.length){
     var exact=lat.filter(function(e){ return exactLatin(e,q); });
@@ -90,7 +92,7 @@ function update(){
   }
   var lower=q.toLowerCase();
   function engKey(s){ return s.toLowerCase().replace(/^to\s+/,''); }  // strip leading 'to ' for verbs
-  var target=lower.replace(/^to\s+/,'');
+  var target=lower.replace(/^to(?:\s+|$)/,'');
   var toks=target.split(/\s+/).filter(Boolean);
   function engScore(en){
     var e=engKey(en), s=0;
