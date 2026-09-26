@@ -82,6 +82,7 @@ function update(){
   var pool=ENTRIES.filter(passes);
   if(!q){ render(pool); return; }
   var lower=q.toLowerCase();
+  if(lower==='to'){ render(pool); return; }  // lone 'to' filters nothing
   // "to X" => search only verbs' english by the stem after 'to'
   if(/^to\s+\S+/.test(lower)){
     var vpool=posSel.value?pool:pool.filter(function(e){return e.pos==='v.';});
