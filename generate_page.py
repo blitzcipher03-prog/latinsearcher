@@ -120,10 +120,20 @@ function update(){
     return;
   }
   var lower=q.toLowerCase();
-  var exactEng=pool.filter(function(e){ return e.english.toLowerCase().indexOf(lower)!==-1; });
-  if(exactEng.length){ renderSplit(exactEng,[]); return; }
-  var b=nearest(pool,q);
-  render(b?[b]:[]);
+  var toks=lower.split(/\s+/);
+  function engScore(en){
+    var s=0, e=en.toLowerCase();
+    if(e.indexOf(lower)!==-1) s+=100;          // exact/substring of full phrase
+    toks.forEach(function(t){ if(t&&e.indexOf(t)!==-1) s+=20; });
+    s-=Math.min(e.length,200)/200;            // shorter defs win ties
+    return s;
+  }
+  var scored=pool.map(function(e){ return {e:e,s:engScore(e.english)}; })
+    .filter(function(x){ return x.s>0; })
+    .sort(function(a,b){ return b.s-a.s; });  // closest first
+  var exact=scored.filter(function(x){ return x.e.english.toLowerCase().indexOf(lower)!==-1; }).map(function(x){ return x.e; });
+  var similar=scored.filter(function(x){ return x.e.english.toLowerCase().indexOf(lower)===-1; }).map(function(x){ return x.e; });
+  renderSplit(exact,similar);
 }
 posSel.addEventListener('change',function(){ refreshDecl(); update(); });
 declSel.addEventListener('change',update);
