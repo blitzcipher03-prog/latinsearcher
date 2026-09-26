@@ -150,9 +150,17 @@ CONTROLS = ('<span><strong>search:</strong> <input type="text" id="search" name=
             '<span><strong>chapter:</strong> <input type="number" id="chapter" min="1" max="40" style="width:60px;"></span>')
 
 
+def sort_key(e):
+    # alphabetize ignoring macrons/case (chapter still primary)
+    s = e['latin'].lower().replace('ā', 'a').replace('ē', 'e').replace('ī', 'i')
+    s = s.replace('ō', 'o').replace('ū', 'u').replace('ȳ', 'y')
+    return (e['ch'], s)
+
+
 def main():
     rows = [json.loads(ln) for ln in open(DATA, encoding='utf-8').read().splitlines() if ln.strip()]
     entries = build_entries(rows)
+    entries.sort(key=sort_key)
     html = ('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="utf-8">\n'
             '<title>Wheelock Vocabulary</title>\n</head>\n'
             '<body style="background:#ffffff; margin:0;">\n'
