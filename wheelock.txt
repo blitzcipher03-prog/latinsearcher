@@ -77,7 +77,7 @@
 {"latin":"donum, doni (n)","english":"gift, present","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Social Life"}
 {"latin":"officium, officii (n)","english":"duty, service","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"The City"}
 {"latin":"otium, otii (n)","english":"leisure, peace","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Social Life"}
-{"latin":"magister, magistri (m) or magistra,","english":"ae (f)","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Education/Knowledge"}
+{"latin":"magister, magistri (m) or magistra, magistrae (f)","english":"teacher, master","chapter":4,"part_of_speech":"Noun: 2nd Declension","category":"Education/Knowledge"}
 {"latin":"basium, basii (n)","english":"kiss","chapter":4,"part_of_speech":null,"category":null}
 {"latin":"bellus, bella, bellum","english":"pretty, handsome, charming","chapter":4,"part_of_speech":null,"category":null}
 {"latin":"exitium, exitii (n)","english":"destruction, ruin","chapter":4,"part_of_speech":null,"category":null}
@@ -183,7 +183,7 @@
 {"latin":"iste, ista, istud","english":"that of yours, that; (sometimes pejorative: that despicable, that wretched)","chapter":9,"part_of_speech":"Pronoun","category":"Pronouns/Interrogatives"}
 {"latin":"alter, altera, alterum","english":"the other (of two), second","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
 {"latin":"solus, sola, solum","english":"alone, only (non solum . . . sed etiam)","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Measurement"}
-{"latin":"ullus, ulla, ulllum","english":"any","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
+{"latin":"ullus, ulla, ullum","english":"any","chapter":9,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Pronouns/Interrogatives"}
 {"latin":"studium, studii (n)","english":"zeal, eagerness, pursuit, study","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"Emotions"}
 {"latin":"morbus, morbi (m)","english":"disease, sickness","chapter":9,"part_of_speech":"Noun: 2nd Declension","category":"The Body"}
 {"latin":"nimis or nimium","english":"too, too much, excessively","chapter":9,"part_of_speech":"Adverb","category":"Personality Traits/Characteristics"}
@@ -287,11 +287,11 @@
 {"latin":"trans (+acc.)","english":"across","chapter":14,"part_of_speech":null,"category":null}
 {"latin":"miser, misera, miserum","english":"sad, wretched, miserable, unfortunate","chapter":15,"part_of_speech":"Adjective: 1st and 2nd Declension","category":"Emotions"}
 {"latin":"timeo, timēre, timui","english":"to be afraid, fear","chapter":15,"part_of_speech":"Verb: 2nd Conjugation","category":"Emotions"}
-{"latin":"exspecto, expsectāre, exspectavi, exspectatum","english":"to look for, expect, await","chapter":15,"part_of_speech":"Verb: 1st Conjugation","category":"Vision"}
-{"latin":"committo, committere, comisi, comissum","english":"to entrust, commit","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Social Life"}
+{"latin":"exspecto, exspectāre, exspectavi, exspectatum","english":"to look for, expect, await","chapter":15,"part_of_speech":"Verb: 1st Conjugation","category":"Vision"}
+{"latin":"committo, committere, commisi, commissum","english":"to entrust, commit","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -ō","category":"Social Life"}
 {"latin":"memoria, memoriae (f)","english":"memory, recollection","chapter":15,"part_of_speech":"Noun: 1st Declension","category":"Education/Knowledge"}
 {"latin":"tempestas, tempestatis (f)","english":"period of time, season; weather; storm","chapter":15,"part_of_speech":"Noun: 3rd Declension","category":"Lengths of Time"}
-{"latin":"iacio, iacere, ieci, iactum","english":"to thow; hurl","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Athletics"}
+{"latin":"iacio, iacere, ieci, iactum","english":"to throw; hurl","chapter":15,"part_of_speech":"Verb: 3rd Conjugation -iō","category":"Athletics"}
 {"latin":"centum","english":"hundred","chapter":15,"part_of_speech":null,"category":null}
 {"latin":"inter (+acc.)","english":"between, among","chapter":15,"part_of_speech":null,"category":null}
 {"latin":"Italia, Italiae (f)","english":"Italy","chapter":15,"part_of_speech":null,"category":null}
@@ -624,7 +624,7 @@
 {"latin":"philosophus, philosophi (m)","english":"philosopher","chapter":33,"part_of_speech":null,"category":null}
 {"latin":"recuso, recusāre, recusavi, recusatum","english":"to refuse","chapter":33,"part_of_speech":null,"category":null}
 {"latin":"sal, salis (m)","english":"salt; wit","chapter":33,"part_of_speech":null,"category":null}
-{"latin":"sauvis, suave","english":"sweet","chapter":33,"part_of_speech":null,"category":null}
+{"latin":"suavis, suave","english":"sweet","chapter":33,"part_of_speech":null,"category":null}
 {"latin":"speculum, speculi (n)","english":"mirror","chapter":33,"part_of_speech":null,"category":null}
 {"latin":"subito","english":"suddenly","chapter":33,"part_of_speech":null,"category":null}
 {"latin":"sequor, sequi, secutus sum","english":"to follow","chapter":34,"part_of_speech":"Verb: Deponent","category":"Motion"}
@@ -726,7 +726,7 @@
 {"latin":"sublimis, sublime","english":"elevated, lofty; heroic, noble","chapter":38,"part_of_speech":null,"category":null}
 {"latin":"ventus, venti (m)","english":"wind","chapter":39,"part_of_speech":"Noun: 2nd Declension","category":"Air and Fire"}
 {"latin":"vetus (gen: veteris)","english":"old","chapter":39,"part_of_speech":"Adjective: 3rd Declension","category":"Time"}
-{"latin":"iniuria, inuriae (f)","english":"injury, injustice, wrong","chapter":39,"part_of_speech":"Noun: 1st Declension","category":"Justice"}
+{"latin":"iniuria, iniuriae (f)","english":"injury, injustice, wrong","chapter":39,"part_of_speech":"Noun: 1st Declension","category":"Justice"}
 {"latin":"transeo, transire, transii, transitum","english":"to go across, cross; pass over, ignore","chapter":39,"part_of_speech":"Verb: Irregular","category":"Travel"}
 {"latin":"experior, experiri, expertus sum","english":"to try, test; experience","chapter":39,"part_of_speech":"Verb: Deponent","category":"Education/Knowledge"}
 {"latin":"oportet, oportere, oportuit (impersonal)","english":"it is proper, right, necessary","chapter":39,"part_of_speech":"Verb: Impersonal","category":"Social Life"}
@@ -743,7 +743,7 @@
 {"latin":"quasi","english":"as if, as it were","chapter":39,"part_of_speech":null,"category":null}
 {"latin":"transitus, transitus (m)","english":"passing over, transit; transition","chapter":39,"part_of_speech":null,"category":null}
 {"latin":"vultus, vultus (m)","english":"countenance, face","chapter":40,"part_of_speech":"Noun: 4th Declension","category":"The Body"}
-{"latin":"dominus, domini (n)","english":"master","chapter":40,"part_of_speech":"Noun: 2nd Declension","category":"The Household"}
+{"latin":"dominus, domini (m)","english":"master","chapter":40,"part_of_speech":"Noun: 2nd Declension","category":"The Household"}
 {"latin":"saxum, saxi (n)","english":"rock","chapter":40,"part_of_speech":"Noun: 2nd Declension","category":"Earth and Water"}
 {"latin":"lacrima, lacrimae (f)","english":"tear","chapter":40,"part_of_speech":"Noun: 1st Declension","category":"Emotions"}
 {"latin":"for, fāri, fatus sum","english":"to speak (prophetically), talk, foretell","chapter":40,"part_of_speech":"Verb: Deponent","category":"Speech/Oratory"}
